@@ -1,0 +1,70 @@
+{
+  "name": "Chalk",
+  "base": "dark",
+  "overrides": {
+    "text": "#d0d0d0",
+    "inverseText": "#151515",
+    "claude": "#5ab9ed",
+    "inactive": "#505050",
+    "subtle": "#505050",
+    "suggestion": "#10bcad",
+    "permission": "#db8fea",
+    "remember": "#db8fea",
+
+    "success": "#a1bb54",
+    "error": "#fa859c",
+    "warning": "#ddb26f",
+    "merged": "#db8fea",
+
+    "promptBorder": "#505050",
+    "planMode": "#5ab9ed",
+    "autoAccept": "#a1bb54",
+    "bashBorder": "#db8fea",
+    "ide": "#10bcad",
+    "fastMode": "#ea9971",
+
+    "userMessageBackground": "#202020",
+    "userMessageBackgroundHover": "#303030",
+    "messageActionsBackground": "#303030",
+    "bashMessageBackgroundColor": "#202020",
+    "memoryBackgroundColor": "#202020",
+    "selectionBg": "#303030",
+
+    "rate_limit_fill": "#5ab9ed",
+    "rate_limit_empty": "#303030",
+    "briefLabelYou": "#10bcad",
+    "briefLabelClaude": "#5ab9ed",
+
+    "claudeShimmer": "#5ab9ed",
+    "warningShimmer": "#ddb26f",
+    "permissionShimmer": "#db8fea",
+    "promptBorderShimmer": "#b0b0b0",
+    "inactiveShimmer": "#b0b0b0",
+    "fastModeShimmer": "#ea9971",
+
+    "red_FOR_SUBAGENTS_ONLY": "#fa859c",
+    "orange_FOR_SUBAGENTS_ONLY": "#ea9971",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ddb26f",
+    "green_FOR_SUBAGENTS_ONLY": "#a1bb54",
+    "cyan_FOR_SUBAGENTS_ONLY": "#10bcad",
+    "blue_FOR_SUBAGENTS_ONLY": "#5ab9ed",
+    "purple_FOR_SUBAGENTS_ONLY": "#db8fea",
+    "pink_FOR_SUBAGENTS_ONLY": "#deaf8f",
+
+    "rainbow_red": "#fa859c",
+    "rainbow_orange": "#ea9971",
+    "rainbow_yellow": "#ddb26f",
+    "rainbow_green": "#a1bb54",
+    "rainbow_blue": "#10bcad",
+    "rainbow_indigo": "#5ab9ed",
+    "rainbow_violet": "#db8fea",
+
+    "rainbow_red_shimmer": "#fa859c",
+    "rainbow_orange_shimmer": "#ea9971",
+    "rainbow_yellow_shimmer": "#ddb26f",
+    "rainbow_green_shimmer": "#a1bb54",
+    "rainbow_blue_shimmer": "#10bcad",
+    "rainbow_indigo_shimmer": "#5ab9ed",
+    "rainbow_violet_shimmer": "#db8fea"
+  }
+}

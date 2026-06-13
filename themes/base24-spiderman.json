@@ -1,0 +1,70 @@
+{
+  "name": "Spiderman",
+  "base": "dark",
+  "overrides": {
+    "text": "#d3d3cd",
+    "inverseText": "#1b1d1e",
+    "claude": "#2b3fff",
+    "inactive": "#7b7d7c",
+    "subtle": "#7b7d7c",
+    "suggestion": "#3255ff",
+    "permission": "#2435db",
+    "remember": "#2435db",
+
+    "success": "#e22828",
+    "error": "#e60712",
+    "warning": "#1d4fff",
+    "merged": "#2435db",
+
+    "promptBorder": "#7b7d7c",
+    "planMode": "#2b3fff",
+    "autoAccept": "#e22828",
+    "bashBorder": "#2435db",
+    "ide": "#3255ff",
+    "fastMode": "#e24655",
+
+    "userMessageBackground": "#1b1d1e",
+    "userMessageBackgroundHover": "#505354",
+    "messageActionsBackground": "#505354",
+    "bashMessageBackgroundColor": "#1b1d1e",
+    "memoryBackgroundColor": "#1b1d1e",
+    "selectionBg": "#505354",
+
+    "rate_limit_fill": "#2b3fff",
+    "rate_limit_empty": "#505354",
+    "briefLabelYou": "#3255ff",
+    "briefLabelClaude": "#2b3fff",
+
+    "claudeShimmer": "#2b3fff",
+    "warningShimmer": "#1d4fff",
+    "permissionShimmer": "#2435db",
+    "promptBorderShimmer": "#a7a8a5",
+    "inactiveShimmer": "#a7a8a5",
+    "fastModeShimmer": "#e24655",
+
+    "red_FOR_SUBAGENTS_ONLY": "#e60712",
+    "orange_FOR_SUBAGENTS_ONLY": "#e24655",
+    "yellow_FOR_SUBAGENTS_ONLY": "#1d4fff",
+    "green_FOR_SUBAGENTS_ONLY": "#e22828",
+    "cyan_FOR_SUBAGENTS_ONLY": "#3255ff",
+    "blue_FOR_SUBAGENTS_ONLY": "#2b3fff",
+    "purple_FOR_SUBAGENTS_ONLY": "#2435db",
+    "pink_FOR_SUBAGENTS_ONLY": "#730309",
+
+    "rainbow_red": "#e60712",
+    "rainbow_orange": "#e24655",
+    "rainbow_yellow": "#1d4fff",
+    "rainbow_green": "#e22828",
+    "rainbow_blue": "#3255ff",
+    "rainbow_indigo": "#2b3fff",
+    "rainbow_violet": "#2435db",
+
+    "rainbow_red_shimmer": "#e60712",
+    "rainbow_orange_shimmer": "#e24655",
+    "rainbow_yellow_shimmer": "#1d4fff",
+    "rainbow_green_shimmer": "#e22828",
+    "rainbow_blue_shimmer": "#3255ff",
+    "rainbow_indigo_shimmer": "#2b3fff",
+    "rainbow_violet_shimmer": "#2435db"
+  }
+}

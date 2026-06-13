@@ -1,0 +1,70 @@
+{
+  "name": "Darcula",
+  "base": "dark",
+  "overrides": {
+    "text": "#a9b7c6",
+    "inverseText": "#2b2b2b",
+    "claude": "#9876aa",
+    "inactive": "#606366",
+    "subtle": "#606366",
+    "suggestion": "#629755",
+    "permission": "#cc7832",
+    "remember": "#cc7832",
+
+    "success": "#6a8759",
+    "error": "#4eade5",
+    "warning": "#bbb529",
+    "merged": "#cc7832",
+
+    "promptBorder": "#606366",
+    "planMode": "#9876aa",
+    "autoAccept": "#6a8759",
+    "bashBorder": "#cc7832",
+    "ide": "#629755",
+    "fastMode": "#689757",
+
+    "userMessageBackground": "#323232",
+    "userMessageBackgroundHover": "#323232",
+    "messageActionsBackground": "#323232",
+    "bashMessageBackgroundColor": "#323232",
+    "memoryBackgroundColor": "#323232",
+    "selectionBg": "#323232",
+
+    "rate_limit_fill": "#9876aa",
+    "rate_limit_empty": "#323232",
+    "briefLabelYou": "#629755",
+    "briefLabelClaude": "#9876aa",
+
+    "claudeShimmer": "#9876aa",
+    "warningShimmer": "#bbb529",
+    "permissionShimmer": "#cc7832",
+    "promptBorderShimmer": "#a4a3a3",
+    "inactiveShimmer": "#a4a3a3",
+    "fastModeShimmer": "#689757",
+
+    "red_FOR_SUBAGENTS_ONLY": "#4eade5",
+    "orange_FOR_SUBAGENTS_ONLY": "#689757",
+    "yellow_FOR_SUBAGENTS_ONLY": "#bbb529",
+    "green_FOR_SUBAGENTS_ONLY": "#6a8759",
+    "cyan_FOR_SUBAGENTS_ONLY": "#629755",
+    "blue_FOR_SUBAGENTS_ONLY": "#9876aa",
+    "purple_FOR_SUBAGENTS_ONLY": "#cc7832",
+    "pink_FOR_SUBAGENTS_ONLY": "#808080",
+
+    "rainbow_red": "#4eade5",
+    "rainbow_orange": "#689757",
+    "rainbow_yellow": "#bbb529",
+    "rainbow_green": "#6a8759",
+    "rainbow_blue": "#629755",
+    "rainbow_indigo": "#9876aa",
+    "rainbow_violet": "#cc7832",
+
+    "rainbow_red_shimmer": "#4eade5",
+    "rainbow_orange_shimmer": "#689757",
+    "rainbow_yellow_shimmer": "#bbb529",
+    "rainbow_green_shimmer": "#6a8759",
+    "rainbow_blue_shimmer": "#629755",
+    "rainbow_indigo_shimmer": "#9876aa",
+    "rainbow_violet_shimmer": "#cc7832"
+  }
+}

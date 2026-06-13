@@ -1,0 +1,70 @@
+{
+  "name": "Pop",
+  "base": "dark",
+  "overrides": {
+    "text": "#d0d0d0",
+    "inverseText": "#000000",
+    "claude": "#0e5a94",
+    "inactive": "#505050",
+    "subtle": "#505050",
+    "suggestion": "#00aabb",
+    "permission": "#b31e8d",
+    "remember": "#b31e8d",
+
+    "success": "#37b349",
+    "error": "#eb008a",
+    "warning": "#f8ca12",
+    "merged": "#b31e8d",
+
+    "promptBorder": "#505050",
+    "planMode": "#0e5a94",
+    "autoAccept": "#37b349",
+    "bashBorder": "#b31e8d",
+    "ide": "#00aabb",
+    "fastMode": "#f29333",
+
+    "userMessageBackground": "#202020",
+    "userMessageBackgroundHover": "#303030",
+    "messageActionsBackground": "#303030",
+    "bashMessageBackgroundColor": "#202020",
+    "memoryBackgroundColor": "#202020",
+    "selectionBg": "#303030",
+
+    "rate_limit_fill": "#0e5a94",
+    "rate_limit_empty": "#303030",
+    "briefLabelYou": "#00aabb",
+    "briefLabelClaude": "#0e5a94",
+
+    "claudeShimmer": "#0e5a94",
+    "warningShimmer": "#f8ca12",
+    "permissionShimmer": "#b31e8d",
+    "promptBorderShimmer": "#b0b0b0",
+    "inactiveShimmer": "#b0b0b0",
+    "fastModeShimmer": "#f29333",
+
+    "red_FOR_SUBAGENTS_ONLY": "#eb008a",
+    "orange_FOR_SUBAGENTS_ONLY": "#f29333",
+    "yellow_FOR_SUBAGENTS_ONLY": "#f8ca12",
+    "green_FOR_SUBAGENTS_ONLY": "#37b349",
+    "cyan_FOR_SUBAGENTS_ONLY": "#00aabb",
+    "blue_FOR_SUBAGENTS_ONLY": "#0e5a94",
+    "purple_FOR_SUBAGENTS_ONLY": "#b31e8d",
+    "pink_FOR_SUBAGENTS_ONLY": "#7a2d00",
+
+    "rainbow_red": "#eb008a",
+    "rainbow_orange": "#f29333",
+    "rainbow_yellow": "#f8ca12",
+    "rainbow_green": "#37b349",
+    "rainbow_blue": "#00aabb",
+    "rainbow_indigo": "#0e5a94",
+    "rainbow_violet": "#b31e8d",
+
+    "rainbow_red_shimmer": "#eb008a",
+    "rainbow_orange_shimmer": "#f29333",
+    "rainbow_yellow_shimmer": "#f8ca12",
+    "rainbow_green_shimmer": "#37b349",
+    "rainbow_blue_shimmer": "#00aabb",
+    "rainbow_indigo_shimmer": "#0e5a94",
+    "rainbow_violet_shimmer": "#b31e8d"
+  }
+}

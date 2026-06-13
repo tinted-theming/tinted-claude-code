@@ -1,0 +1,19 @@
+# tinted-claude-code template configuration.
+#
+# Each entry below is rendered by tinted-builder-rust against every scheme of
+# the listed `supported-systems`, producing one Claude Code custom-theme JSON
+# file per scheme in the `themes/` directory.
+#
+# The output filename stem (e.g. `base16-ayu-dark`) is the scheme id that Tinty
+# matches against when it applies a theme.
+
+base16:
+  filename: themes/{{ scheme-system }}-{{ scheme-slug }}.json
+  supported-systems: [base16, base24]
+
+tinted8:
+  filename: themes/{{ scheme.system }}-{{ scheme.slug }}.json
+  supported-systems: [tinted8]
+  supports:
+    tinted8-builder: ~0.2.0
+    tinted8-styling: ~0.2.0

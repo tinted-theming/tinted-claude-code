@@ -1,0 +1,70 @@
+{
+  "name": "Seti UI",
+  "base": "dark",
+  "overrides": {
+    "text": "#d6d6d6",
+    "inverseText": "#151718",
+    "claude": "#55b5db",
+    "inactive": "#41535b",
+    "subtle": "#41535b",
+    "suggestion": "#55dbbe",
+    "permission": "#a074c4",
+    "remember": "#a074c4",
+
+    "success": "#9fca56",
+    "error": "#cd3f45",
+    "warning": "#e6cd69",
+    "merged": "#a074c4",
+
+    "promptBorder": "#41535b",
+    "planMode": "#55b5db",
+    "autoAccept": "#9fca56",
+    "bashBorder": "#a074c4",
+    "ide": "#55dbbe",
+    "fastMode": "#db7b55",
+
+    "userMessageBackground": "#282a2b",
+    "userMessageBackgroundHover": "#3b758c",
+    "messageActionsBackground": "#3b758c",
+    "bashMessageBackgroundColor": "#282a2b",
+    "memoryBackgroundColor": "#282a2b",
+    "selectionBg": "#3b758c",
+
+    "rate_limit_fill": "#55b5db",
+    "rate_limit_empty": "#3b758c",
+    "briefLabelYou": "#55dbbe",
+    "briefLabelClaude": "#55b5db",
+
+    "claudeShimmer": "#55b5db",
+    "warningShimmer": "#e6cd69",
+    "permissionShimmer": "#a074c4",
+    "promptBorderShimmer": "#43a5d5",
+    "inactiveShimmer": "#43a5d5",
+    "fastModeShimmer": "#db7b55",
+
+    "red_FOR_SUBAGENTS_ONLY": "#cd3f45",
+    "orange_FOR_SUBAGENTS_ONLY": "#db7b55",
+    "yellow_FOR_SUBAGENTS_ONLY": "#e6cd69",
+    "green_FOR_SUBAGENTS_ONLY": "#9fca56",
+    "cyan_FOR_SUBAGENTS_ONLY": "#55dbbe",
+    "blue_FOR_SUBAGENTS_ONLY": "#55b5db",
+    "purple_FOR_SUBAGENTS_ONLY": "#a074c4",
+    "pink_FOR_SUBAGENTS_ONLY": "#8a553f",
+
+    "rainbow_red": "#cd3f45",
+    "rainbow_orange": "#db7b55",
+    "rainbow_yellow": "#e6cd69",
+    "rainbow_green": "#9fca56",
+    "rainbow_blue": "#55dbbe",
+    "rainbow_indigo": "#55b5db",
+    "rainbow_violet": "#a074c4",
+
+    "rainbow_red_shimmer": "#cd3f45",
+    "rainbow_orange_shimmer": "#db7b55",
+    "rainbow_yellow_shimmer": "#e6cd69",
+    "rainbow_green_shimmer": "#9fca56",
+    "rainbow_blue_shimmer": "#55dbbe",
+    "rainbow_indigo_shimmer": "#55b5db",
+    "rainbow_violet_shimmer": "#a074c4"
+  }
+}

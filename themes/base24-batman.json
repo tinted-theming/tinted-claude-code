@@ -1,0 +1,70 @@
+{
+  "name": "Batman",
+  "base": "dark",
+  "overrides": {
+    "text": "#a7a8a3",
+    "inverseText": "#1b1d1e",
+    "claude": "#737074",
+    "inactive": "#6d6f6e",
+    "subtle": "#6d6f6e",
+    "suggestion": "#615f5e",
+    "permission": "#737271",
+    "remember": "#737271",
+
+    "success": "#c8be46",
+    "error": "#e6db43",
+    "warning": "#909495",
+    "merged": "#737271",
+
+    "promptBorder": "#6d6f6e",
+    "planMode": "#737074",
+    "autoAccept": "#c8be46",
+    "bashBorder": "#737271",
+    "ide": "#615f5e",
+    "fastMode": "#f3fd21",
+
+    "userMessageBackground": "#1b1d1e",
+    "userMessageBackgroundHover": "#505354",
+    "messageActionsBackground": "#505354",
+    "bashMessageBackgroundColor": "#1b1d1e",
+    "memoryBackgroundColor": "#1b1d1e",
+    "selectionBg": "#505354",
+
+    "rate_limit_fill": "#737074",
+    "rate_limit_empty": "#505354",
+    "briefLabelYou": "#615f5e",
+    "briefLabelClaude": "#737074",
+
+    "claudeShimmer": "#737074",
+    "warningShimmer": "#909495",
+    "permissionShimmer": "#737271",
+    "promptBorderShimmer": "#8a8c89",
+    "inactiveShimmer": "#8a8c89",
+    "fastModeShimmer": "#f3fd21",
+
+    "red_FOR_SUBAGENTS_ONLY": "#e6db43",
+    "orange_FOR_SUBAGENTS_ONLY": "#f3fd21",
+    "yellow_FOR_SUBAGENTS_ONLY": "#909495",
+    "green_FOR_SUBAGENTS_ONLY": "#c8be46",
+    "cyan_FOR_SUBAGENTS_ONLY": "#615f5e",
+    "blue_FOR_SUBAGENTS_ONLY": "#737074",
+    "purple_FOR_SUBAGENTS_ONLY": "#737271",
+    "pink_FOR_SUBAGENTS_ONLY": "#736d21",
+
+    "rainbow_red": "#e6db43",
+    "rainbow_orange": "#f3fd21",
+    "rainbow_yellow": "#909495",
+    "rainbow_green": "#c8be46",
+    "rainbow_blue": "#615f5e",
+    "rainbow_indigo": "#737074",
+    "rainbow_violet": "#737271",
+
+    "rainbow_red_shimmer": "#e6db43",
+    "rainbow_orange_shimmer": "#f3fd21",
+    "rainbow_yellow_shimmer": "#909495",
+    "rainbow_green_shimmer": "#c8be46",
+    "rainbow_blue_shimmer": "#615f5e",
+    "rainbow_indigo_shimmer": "#737074",
+    "rainbow_violet_shimmer": "#737271"
+  }
+}

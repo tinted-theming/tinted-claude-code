@@ -1,0 +1,70 @@
+{
+  "name": "Brewer",
+  "base": "dark",
+  "overrides": {
+    "text": "#b7b8b9",
+    "inverseText": "#0c0d0e",
+    "claude": "#3182bd",
+    "inactive": "#737475",
+    "subtle": "#737475",
+    "suggestion": "#80b1d3",
+    "permission": "#756bb1",
+    "remember": "#756bb1",
+
+    "success": "#31a354",
+    "error": "#e31a1c",
+    "warning": "#dca060",
+    "merged": "#756bb1",
+
+    "promptBorder": "#737475",
+    "planMode": "#3182bd",
+    "autoAccept": "#31a354",
+    "bashBorder": "#756bb1",
+    "ide": "#80b1d3",
+    "fastMode": "#e6550d",
+
+    "userMessageBackground": "#2e2f30",
+    "userMessageBackgroundHover": "#515253",
+    "messageActionsBackground": "#515253",
+    "bashMessageBackgroundColor": "#2e2f30",
+    "memoryBackgroundColor": "#2e2f30",
+    "selectionBg": "#515253",
+
+    "rate_limit_fill": "#3182bd",
+    "rate_limit_empty": "#515253",
+    "briefLabelYou": "#80b1d3",
+    "briefLabelClaude": "#3182bd",
+
+    "claudeShimmer": "#3182bd",
+    "warningShimmer": "#dca060",
+    "permissionShimmer": "#756bb1",
+    "promptBorderShimmer": "#959697",
+    "inactiveShimmer": "#959697",
+    "fastModeShimmer": "#e6550d",
+
+    "red_FOR_SUBAGENTS_ONLY": "#e31a1c",
+    "orange_FOR_SUBAGENTS_ONLY": "#e6550d",
+    "yellow_FOR_SUBAGENTS_ONLY": "#dca060",
+    "green_FOR_SUBAGENTS_ONLY": "#31a354",
+    "cyan_FOR_SUBAGENTS_ONLY": "#80b1d3",
+    "blue_FOR_SUBAGENTS_ONLY": "#3182bd",
+    "purple_FOR_SUBAGENTS_ONLY": "#756bb1",
+    "pink_FOR_SUBAGENTS_ONLY": "#b15928",
+
+    "rainbow_red": "#e31a1c",
+    "rainbow_orange": "#e6550d",
+    "rainbow_yellow": "#dca060",
+    "rainbow_green": "#31a354",
+    "rainbow_blue": "#80b1d3",
+    "rainbow_indigo": "#3182bd",
+    "rainbow_violet": "#756bb1",
+
+    "rainbow_red_shimmer": "#e31a1c",
+    "rainbow_orange_shimmer": "#e6550d",
+    "rainbow_yellow_shimmer": "#dca060",
+    "rainbow_green_shimmer": "#31a354",
+    "rainbow_blue_shimmer": "#80b1d3",
+    "rainbow_indigo_shimmer": "#3182bd",
+    "rainbow_violet_shimmer": "#756bb1"
+  }
+}

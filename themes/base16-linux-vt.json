@@ -1,0 +1,70 @@
+{
+  "name": "Linux VT",
+  "base": "dark",
+  "overrides": {
+    "text": "#aaaaaa",
+    "inverseText": "#000000",
+    "claude": "#5555ff",
+    "inactive": "#555555",
+    "subtle": "#555555",
+    "suggestion": "#00aaaa",
+    "permission": "#ff55ff",
+    "remember": "#ff55ff",
+
+    "success": "#00aa00",
+    "error": "#aa0000",
+    "warning": "#ffff55",
+    "merged": "#ff55ff",
+
+    "promptBorder": "#555555",
+    "planMode": "#5555ff",
+    "autoAccept": "#00aa00",
+    "bashBorder": "#ff55ff",
+    "ide": "#00aaaa",
+    "fastMode": "#ff5555",
+
+    "userMessageBackground": "#333333",
+    "userMessageBackgroundHover": "#444444",
+    "messageActionsBackground": "#444444",
+    "bashMessageBackgroundColor": "#333333",
+    "memoryBackgroundColor": "#333333",
+    "selectionBg": "#444444",
+
+    "rate_limit_fill": "#5555ff",
+    "rate_limit_empty": "#444444",
+    "briefLabelYou": "#00aaaa",
+    "briefLabelClaude": "#5555ff",
+
+    "claudeShimmer": "#5555ff",
+    "warningShimmer": "#ffff55",
+    "permissionShimmer": "#ff55ff",
+    "promptBorderShimmer": "#888888",
+    "inactiveShimmer": "#888888",
+    "fastModeShimmer": "#ff5555",
+
+    "red_FOR_SUBAGENTS_ONLY": "#aa0000",
+    "orange_FOR_SUBAGENTS_ONLY": "#ff5555",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffff55",
+    "green_FOR_SUBAGENTS_ONLY": "#00aa00",
+    "cyan_FOR_SUBAGENTS_ONLY": "#00aaaa",
+    "blue_FOR_SUBAGENTS_ONLY": "#5555ff",
+    "purple_FOR_SUBAGENTS_ONLY": "#ff55ff",
+    "pink_FOR_SUBAGENTS_ONLY": "#aa5500",
+
+    "rainbow_red": "#aa0000",
+    "rainbow_orange": "#ff5555",
+    "rainbow_yellow": "#ffff55",
+    "rainbow_green": "#00aa00",
+    "rainbow_blue": "#00aaaa",
+    "rainbow_indigo": "#5555ff",
+    "rainbow_violet": "#ff55ff",
+
+    "rainbow_red_shimmer": "#aa0000",
+    "rainbow_orange_shimmer": "#ff5555",
+    "rainbow_yellow_shimmer": "#ffff55",
+    "rainbow_green_shimmer": "#00aa00",
+    "rainbow_blue_shimmer": "#00aaaa",
+    "rainbow_indigo_shimmer": "#5555ff",
+    "rainbow_violet_shimmer": "#ff55ff"
+  }
+}

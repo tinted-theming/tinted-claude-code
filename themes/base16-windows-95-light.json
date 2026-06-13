@@ -1,0 +1,70 @@
+{
+  "name": "Windows 95 Light",
+  "base": "light",
+  "overrides": {
+    "text": "#545454",
+    "inverseText": "#fcfcfc",
+    "claude": "#0000a8",
+    "inactive": "#a8a8a8",
+    "subtle": "#a8a8a8",
+    "suggestion": "#00a8a8",
+    "permission": "#a800a8",
+    "remember": "#a800a8",
+
+    "success": "#00a800",
+    "error": "#a80000",
+    "warning": "#a85400",
+    "merged": "#a800a8",
+
+    "promptBorder": "#a8a8a8",
+    "planMode": "#0000a8",
+    "autoAccept": "#00a800",
+    "bashBorder": "#a800a8",
+    "ide": "#00a8a8",
+    "fastMode": "#fcfc54",
+
+    "userMessageBackground": "#e0e0e0",
+    "userMessageBackgroundHover": "#c4c4c4",
+    "messageActionsBackground": "#c4c4c4",
+    "bashMessageBackgroundColor": "#e0e0e0",
+    "memoryBackgroundColor": "#e0e0e0",
+    "selectionBg": "#c4c4c4",
+
+    "rate_limit_fill": "#0000a8",
+    "rate_limit_empty": "#c4c4c4",
+    "briefLabelYou": "#00a8a8",
+    "briefLabelClaude": "#0000a8",
+
+    "claudeShimmer": "#0000a8",
+    "warningShimmer": "#a85400",
+    "permissionShimmer": "#a800a8",
+    "promptBorderShimmer": "#7e7e7e",
+    "inactiveShimmer": "#7e7e7e",
+    "fastModeShimmer": "#fcfc54",
+
+    "red_FOR_SUBAGENTS_ONLY": "#a80000",
+    "orange_FOR_SUBAGENTS_ONLY": "#fcfc54",
+    "yellow_FOR_SUBAGENTS_ONLY": "#a85400",
+    "green_FOR_SUBAGENTS_ONLY": "#00a800",
+    "cyan_FOR_SUBAGENTS_ONLY": "#00a8a8",
+    "blue_FOR_SUBAGENTS_ONLY": "#0000a8",
+    "purple_FOR_SUBAGENTS_ONLY": "#a800a8",
+    "pink_FOR_SUBAGENTS_ONLY": "#54fc54",
+
+    "rainbow_red": "#a80000",
+    "rainbow_orange": "#fcfc54",
+    "rainbow_yellow": "#a85400",
+    "rainbow_green": "#00a800",
+    "rainbow_blue": "#00a8a8",
+    "rainbow_indigo": "#0000a8",
+    "rainbow_violet": "#a800a8",
+
+    "rainbow_red_shimmer": "#a80000",
+    "rainbow_orange_shimmer": "#fcfc54",
+    "rainbow_yellow_shimmer": "#a85400",
+    "rainbow_green_shimmer": "#00a800",
+    "rainbow_blue_shimmer": "#00a8a8",
+    "rainbow_indigo_shimmer": "#0000a8",
+    "rainbow_violet_shimmer": "#a800a8"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "pinky",
+  "base": "dark",
+  "overrides": {
+    "text": "#f5f5f5",
+    "inverseText": "#171517",
+    "claude": "#00ffff",
+    "inactive": "#383338",
+    "subtle": "#383338",
+    "suggestion": "#6600ff",
+    "permission": "#007fff",
+    "remember": "#007fff",
+
+    "success": "#ff0066",
+    "error": "#ffa600",
+    "warning": "#20df6c",
+    "merged": "#007fff",
+
+    "promptBorder": "#383338",
+    "planMode": "#00ffff",
+    "autoAccept": "#ff0066",
+    "bashBorder": "#007fff",
+    "ide": "#6600ff",
+    "fastMode": "#00ff66",
+
+    "userMessageBackground": "#1b181b",
+    "userMessageBackgroundHover": "#1d1b1d",
+    "messageActionsBackground": "#1d1b1d",
+    "bashMessageBackgroundColor": "#1b181b",
+    "memoryBackgroundColor": "#1b181b",
+    "selectionBg": "#1d1b1d",
+
+    "rate_limit_fill": "#00ffff",
+    "rate_limit_empty": "#1d1b1d",
+    "briefLabelYou": "#6600ff",
+    "briefLabelClaude": "#00ffff",
+
+    "claudeShimmer": "#00ffff",
+    "warningShimmer": "#20df6c",
+    "permissionShimmer": "#007fff",
+    "promptBorderShimmer": "#e7dbdb",
+    "inactiveShimmer": "#e7dbdb",
+    "fastModeShimmer": "#00ff66",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ffa600",
+    "orange_FOR_SUBAGENTS_ONLY": "#00ff66",
+    "yellow_FOR_SUBAGENTS_ONLY": "#20df6c",
+    "green_FOR_SUBAGENTS_ONLY": "#ff0066",
+    "cyan_FOR_SUBAGENTS_ONLY": "#6600ff",
+    "blue_FOR_SUBAGENTS_ONLY": "#00ffff",
+    "purple_FOR_SUBAGENTS_ONLY": "#007fff",
+    "pink_FOR_SUBAGENTS_ONLY": "#df206c",
+
+    "rainbow_red": "#ffa600",
+    "rainbow_orange": "#00ff66",
+    "rainbow_yellow": "#20df6c",
+    "rainbow_green": "#ff0066",
+    "rainbow_blue": "#6600ff",
+    "rainbow_indigo": "#00ffff",
+    "rainbow_violet": "#007fff",
+
+    "rainbow_red_shimmer": "#ffa600",
+    "rainbow_orange_shimmer": "#00ff66",
+    "rainbow_yellow_shimmer": "#20df6c",
+    "rainbow_green_shimmer": "#ff0066",
+    "rainbow_blue_shimmer": "#6600ff",
+    "rainbow_indigo_shimmer": "#00ffff",
+    "rainbow_violet_shimmer": "#007fff"
+  }
+}

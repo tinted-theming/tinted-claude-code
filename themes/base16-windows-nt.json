@@ -1,0 +1,70 @@
+{
+  "name": "Windows NT",
+  "base": "dark",
+  "overrides": {
+    "text": "#c0c0c0",
+    "inverseText": "#000000",
+    "claude": "#0000ff",
+    "inactive": "#808080",
+    "subtle": "#808080",
+    "suggestion": "#00ffff",
+    "permission": "#ff00ff",
+    "remember": "#ff00ff",
+
+    "success": "#00ff00",
+    "error": "#ff0000",
+    "warning": "#ffff00",
+    "merged": "#ff00ff",
+
+    "promptBorder": "#808080",
+    "planMode": "#0000ff",
+    "autoAccept": "#00ff00",
+    "bashBorder": "#ff00ff",
+    "ide": "#00ffff",
+    "fastMode": "#808000",
+
+    "userMessageBackground": "#2a2a2a",
+    "userMessageBackgroundHover": "#555555",
+    "messageActionsBackground": "#555555",
+    "bashMessageBackgroundColor": "#2a2a2a",
+    "memoryBackgroundColor": "#2a2a2a",
+    "selectionBg": "#555555",
+
+    "rate_limit_fill": "#0000ff",
+    "rate_limit_empty": "#555555",
+    "briefLabelYou": "#00ffff",
+    "briefLabelClaude": "#0000ff",
+
+    "claudeShimmer": "#0000ff",
+    "warningShimmer": "#ffff00",
+    "permissionShimmer": "#ff00ff",
+    "promptBorderShimmer": "#a1a1a1",
+    "inactiveShimmer": "#a1a1a1",
+    "fastModeShimmer": "#808000",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff0000",
+    "orange_FOR_SUBAGENTS_ONLY": "#808000",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffff00",
+    "green_FOR_SUBAGENTS_ONLY": "#00ff00",
+    "cyan_FOR_SUBAGENTS_ONLY": "#00ffff",
+    "blue_FOR_SUBAGENTS_ONLY": "#0000ff",
+    "purple_FOR_SUBAGENTS_ONLY": "#ff00ff",
+    "pink_FOR_SUBAGENTS_ONLY": "#008000",
+
+    "rainbow_red": "#ff0000",
+    "rainbow_orange": "#808000",
+    "rainbow_yellow": "#ffff00",
+    "rainbow_green": "#00ff00",
+    "rainbow_blue": "#00ffff",
+    "rainbow_indigo": "#0000ff",
+    "rainbow_violet": "#ff00ff",
+
+    "rainbow_red_shimmer": "#ff0000",
+    "rainbow_orange_shimmer": "#808000",
+    "rainbow_yellow_shimmer": "#ffff00",
+    "rainbow_green_shimmer": "#00ff00",
+    "rainbow_blue_shimmer": "#00ffff",
+    "rainbow_indigo_shimmer": "#0000ff",
+    "rainbow_violet_shimmer": "#ff00ff"
+  }
+}

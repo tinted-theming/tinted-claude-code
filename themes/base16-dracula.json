@@ -1,0 +1,70 @@
+{
+  "name": "Dracula",
+  "base": "dark",
+  "overrides": {
+    "text": "#f8f8f2",
+    "inverseText": "#282a36",
+    "claude": "#bd93f9",
+    "inactive": "#6272a4",
+    "subtle": "#6272a4",
+    "suggestion": "#8be9fd",
+    "permission": "#ff79c6",
+    "remember": "#ff79c6",
+
+    "success": "#50fa7b",
+    "error": "#ff5555",
+    "warning": "#f1fa8c",
+    "merged": "#ff79c6",
+
+    "promptBorder": "#6272a4",
+    "planMode": "#bd93f9",
+    "autoAccept": "#50fa7b",
+    "bashBorder": "#ff79c6",
+    "ide": "#8be9fd",
+    "fastMode": "#ffb86c",
+
+    "userMessageBackground": "#21222c",
+    "userMessageBackgroundHover": "#44475a",
+    "messageActionsBackground": "#44475a",
+    "bashMessageBackgroundColor": "#21222c",
+    "memoryBackgroundColor": "#21222c",
+    "selectionBg": "#44475a",
+
+    "rate_limit_fill": "#bd93f9",
+    "rate_limit_empty": "#44475a",
+    "briefLabelYou": "#8be9fd",
+    "briefLabelClaude": "#bd93f9",
+
+    "claudeShimmer": "#bd93f9",
+    "warningShimmer": "#f1fa8c",
+    "permissionShimmer": "#ff79c6",
+    "promptBorderShimmer": "#9ea8c7",
+    "inactiveShimmer": "#9ea8c7",
+    "fastModeShimmer": "#ffb86c",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff5555",
+    "orange_FOR_SUBAGENTS_ONLY": "#ffb86c",
+    "yellow_FOR_SUBAGENTS_ONLY": "#f1fa8c",
+    "green_FOR_SUBAGENTS_ONLY": "#50fa7b",
+    "cyan_FOR_SUBAGENTS_ONLY": "#8be9fd",
+    "blue_FOR_SUBAGENTS_ONLY": "#bd93f9",
+    "purple_FOR_SUBAGENTS_ONLY": "#ff79c6",
+    "pink_FOR_SUBAGENTS_ONLY": "#993333",
+
+    "rainbow_red": "#ff5555",
+    "rainbow_orange": "#ffb86c",
+    "rainbow_yellow": "#f1fa8c",
+    "rainbow_green": "#50fa7b",
+    "rainbow_blue": "#8be9fd",
+    "rainbow_indigo": "#bd93f9",
+    "rainbow_violet": "#ff79c6",
+
+    "rainbow_red_shimmer": "#ff5555",
+    "rainbow_orange_shimmer": "#ffb86c",
+    "rainbow_yellow_shimmer": "#f1fa8c",
+    "rainbow_green_shimmer": "#50fa7b",
+    "rainbow_blue_shimmer": "#8be9fd",
+    "rainbow_indigo_shimmer": "#bd93f9",
+    "rainbow_violet_shimmer": "#ff79c6"
+  }
+}

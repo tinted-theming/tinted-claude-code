@@ -1,0 +1,70 @@
+{
+  "name": "Slate",
+  "base": "dark",
+  "overrides": {
+    "text": "#42d3e8",
+    "inverseText": "#212121",
+    "claude": "#254a49",
+    "inactive": "#c0f1f8",
+    "subtle": "#c0f1f8",
+    "suggestion": "#14ab9c",
+    "permission": "#a380d3",
+    "remember": "#a380d3",
+
+    "success": "#80d778",
+    "error": "#e1a7bf",
+    "warning": "#79afd2",
+    "merged": "#a380d3",
+
+    "promptBorder": "#c0f1f8",
+    "planMode": "#254a49",
+    "autoAccept": "#80d778",
+    "bashBorder": "#a380d3",
+    "ide": "#14ab9c",
+    "fastMode": "#c4c9bf",
+
+    "userMessageBackground": "#212121",
+    "userMessageBackgroundHover": "#ffffff",
+    "messageActionsBackground": "#ffffff",
+    "bashMessageBackgroundColor": "#212121",
+    "memoryBackgroundColor": "#212121",
+    "selectionBg": "#ffffff",
+
+    "rate_limit_fill": "#254a49",
+    "rate_limit_empty": "#ffffff",
+    "briefLabelYou": "#14ab9c",
+    "briefLabelClaude": "#254a49",
+
+    "claudeShimmer": "#254a49",
+    "warningShimmer": "#79afd2",
+    "permissionShimmer": "#a380d3",
+    "promptBorderShimmer": "#81e2f0",
+    "inactiveShimmer": "#81e2f0",
+    "fastModeShimmer": "#c4c9bf",
+
+    "red_FOR_SUBAGENTS_ONLY": "#e1a7bf",
+    "orange_FOR_SUBAGENTS_ONLY": "#c4c9bf",
+    "yellow_FOR_SUBAGENTS_ONLY": "#79afd2",
+    "green_FOR_SUBAGENTS_ONLY": "#80d778",
+    "cyan_FOR_SUBAGENTS_ONLY": "#14ab9c",
+    "blue_FOR_SUBAGENTS_ONLY": "#254a49",
+    "purple_FOR_SUBAGENTS_ONLY": "#a380d3",
+    "pink_FOR_SUBAGENTS_ONLY": "#70535f",
+
+    "rainbow_red": "#e1a7bf",
+    "rainbow_orange": "#c4c9bf",
+    "rainbow_yellow": "#79afd2",
+    "rainbow_green": "#80d778",
+    "rainbow_blue": "#14ab9c",
+    "rainbow_indigo": "#254a49",
+    "rainbow_violet": "#a380d3",
+
+    "rainbow_red_shimmer": "#e1a7bf",
+    "rainbow_orange_shimmer": "#c4c9bf",
+    "rainbow_yellow_shimmer": "#79afd2",
+    "rainbow_green_shimmer": "#80d778",
+    "rainbow_blue_shimmer": "#14ab9c",
+    "rainbow_indigo_shimmer": "#254a49",
+    "rainbow_violet_shimmer": "#a380d3"
+  }
+}

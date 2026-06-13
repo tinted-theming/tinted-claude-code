@@ -1,0 +1,70 @@
+{
+  "name": "Wez",
+  "base": "dark",
+  "overrides": {
+    "text": "#aeaeae",
+    "inverseText": "#000000",
+    "claude": "#5455cb",
+    "inactive": "#727272",
+    "subtle": "#727272",
+    "suggestion": "#7acaca",
+    "permission": "#cc55cc",
+    "remember": "#cc55cc",
+
+    "success": "#55cc55",
+    "error": "#cc5555",
+    "warning": "#5555ff",
+    "merged": "#cc55cc",
+
+    "promptBorder": "#727272",
+    "planMode": "#5455cb",
+    "autoAccept": "#55cc55",
+    "bashBorder": "#cc55cc",
+    "ide": "#7acaca",
+    "fastMode": "#cdcd55",
+
+    "userMessageBackground": "#000000",
+    "userMessageBackgroundHover": "#555555",
+    "messageActionsBackground": "#555555",
+    "bashMessageBackgroundColor": "#000000",
+    "memoryBackgroundColor": "#000000",
+    "selectionBg": "#555555",
+
+    "rate_limit_fill": "#5455cb",
+    "rate_limit_empty": "#555555",
+    "briefLabelYou": "#7acaca",
+    "briefLabelClaude": "#5455cb",
+
+    "claudeShimmer": "#5455cb",
+    "warningShimmer": "#5555ff",
+    "permissionShimmer": "#cc55cc",
+    "promptBorderShimmer": "#909090",
+    "inactiveShimmer": "#909090",
+    "fastModeShimmer": "#cdcd55",
+
+    "red_FOR_SUBAGENTS_ONLY": "#cc5555",
+    "orange_FOR_SUBAGENTS_ONLY": "#cdcd55",
+    "yellow_FOR_SUBAGENTS_ONLY": "#5555ff",
+    "green_FOR_SUBAGENTS_ONLY": "#55cc55",
+    "cyan_FOR_SUBAGENTS_ONLY": "#7acaca",
+    "blue_FOR_SUBAGENTS_ONLY": "#5455cb",
+    "purple_FOR_SUBAGENTS_ONLY": "#cc55cc",
+    "pink_FOR_SUBAGENTS_ONLY": "#662a2a",
+
+    "rainbow_red": "#cc5555",
+    "rainbow_orange": "#cdcd55",
+    "rainbow_yellow": "#5555ff",
+    "rainbow_green": "#55cc55",
+    "rainbow_blue": "#7acaca",
+    "rainbow_indigo": "#5455cb",
+    "rainbow_violet": "#cc55cc",
+
+    "rainbow_red_shimmer": "#cc5555",
+    "rainbow_orange_shimmer": "#cdcd55",
+    "rainbow_yellow_shimmer": "#5555ff",
+    "rainbow_green_shimmer": "#55cc55",
+    "rainbow_blue_shimmer": "#7acaca",
+    "rainbow_indigo_shimmer": "#5455cb",
+    "rainbow_violet_shimmer": "#cc55cc"
+  }
+}

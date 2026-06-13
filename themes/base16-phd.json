@@ -1,0 +1,70 @@
+{
+  "name": "PhD",
+  "base": "dark",
+  "overrides": {
+    "text": "#b8bbc2",
+    "inverseText": "#061229",
+    "claude": "#5299bf",
+    "inactive": "#717885",
+    "subtle": "#717885",
+    "suggestion": "#72b9bf",
+    "permission": "#9989cc",
+    "remember": "#9989cc",
+
+    "success": "#99bf52",
+    "error": "#d07346",
+    "warning": "#fbd461",
+    "merged": "#9989cc",
+
+    "promptBorder": "#717885",
+    "planMode": "#5299bf",
+    "autoAccept": "#99bf52",
+    "bashBorder": "#9989cc",
+    "ide": "#72b9bf",
+    "fastMode": "#f0a000",
+
+    "userMessageBackground": "#2a3448",
+    "userMessageBackgroundHover": "#4d5666",
+    "messageActionsBackground": "#4d5666",
+    "bashMessageBackgroundColor": "#2a3448",
+    "memoryBackgroundColor": "#2a3448",
+    "selectionBg": "#4d5666",
+
+    "rate_limit_fill": "#5299bf",
+    "rate_limit_empty": "#4d5666",
+    "briefLabelYou": "#72b9bf",
+    "briefLabelClaude": "#5299bf",
+
+    "claudeShimmer": "#5299bf",
+    "warningShimmer": "#fbd461",
+    "permissionShimmer": "#9989cc",
+    "promptBorderShimmer": "#9a99a3",
+    "inactiveShimmer": "#9a99a3",
+    "fastModeShimmer": "#f0a000",
+
+    "red_FOR_SUBAGENTS_ONLY": "#d07346",
+    "orange_FOR_SUBAGENTS_ONLY": "#f0a000",
+    "yellow_FOR_SUBAGENTS_ONLY": "#fbd461",
+    "green_FOR_SUBAGENTS_ONLY": "#99bf52",
+    "cyan_FOR_SUBAGENTS_ONLY": "#72b9bf",
+    "blue_FOR_SUBAGENTS_ONLY": "#5299bf",
+    "purple_FOR_SUBAGENTS_ONLY": "#9989cc",
+    "pink_FOR_SUBAGENTS_ONLY": "#b08060",
+
+    "rainbow_red": "#d07346",
+    "rainbow_orange": "#f0a000",
+    "rainbow_yellow": "#fbd461",
+    "rainbow_green": "#99bf52",
+    "rainbow_blue": "#72b9bf",
+    "rainbow_indigo": "#5299bf",
+    "rainbow_violet": "#9989cc",
+
+    "rainbow_red_shimmer": "#d07346",
+    "rainbow_orange_shimmer": "#f0a000",
+    "rainbow_yellow_shimmer": "#fbd461",
+    "rainbow_green_shimmer": "#99bf52",
+    "rainbow_blue_shimmer": "#72b9bf",
+    "rainbow_indigo_shimmer": "#5299bf",
+    "rainbow_violet_shimmer": "#9989cc"
+  }
+}

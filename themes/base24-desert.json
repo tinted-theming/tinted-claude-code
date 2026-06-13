@@ -1,0 +1,70 @@
+{
+  "name": "Desert",
+  "base": "dark",
+  "overrides": {
+    "text": "#cdbb9b",
+    "inverseText": "#333333",
+    "claude": "#cd853f",
+    "inactive": "#7d776c",
+    "subtle": "#7d776c",
+    "suggestion": "#ffa0a0",
+    "permission": "#ffdead",
+    "remember": "#ffdead",
+
+    "success": "#98fb98",
+    "error": "#ff2b2b",
+    "warning": "#87ceff",
+    "merged": "#ffdead",
+
+    "promptBorder": "#7d776c",
+    "planMode": "#cd853f",
+    "autoAccept": "#98fb98",
+    "bashBorder": "#ffdead",
+    "ide": "#ffa0a0",
+    "fastMode": "#f0e68c",
+
+    "userMessageBackground": "#4d4d4d",
+    "userMessageBackgroundHover": "#555555",
+    "messageActionsBackground": "#555555",
+    "bashMessageBackgroundColor": "#4d4d4d",
+    "memoryBackgroundColor": "#4d4d4d",
+    "selectionBg": "#555555",
+
+    "rate_limit_fill": "#cd853f",
+    "rate_limit_empty": "#555555",
+    "briefLabelYou": "#ffa0a0",
+    "briefLabelClaude": "#cd853f",
+
+    "claudeShimmer": "#cd853f",
+    "warningShimmer": "#87ceff",
+    "permissionShimmer": "#ffdead",
+    "promptBorderShimmer": "#a59984",
+    "inactiveShimmer": "#a59984",
+    "fastModeShimmer": "#f0e68c",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff2b2b",
+    "orange_FOR_SUBAGENTS_ONLY": "#f0e68c",
+    "yellow_FOR_SUBAGENTS_ONLY": "#87ceff",
+    "green_FOR_SUBAGENTS_ONLY": "#98fb98",
+    "cyan_FOR_SUBAGENTS_ONLY": "#ffa0a0",
+    "blue_FOR_SUBAGENTS_ONLY": "#cd853f",
+    "purple_FOR_SUBAGENTS_ONLY": "#ffdead",
+    "pink_FOR_SUBAGENTS_ONLY": "#7f1515",
+
+    "rainbow_red": "#ff2b2b",
+    "rainbow_orange": "#f0e68c",
+    "rainbow_yellow": "#87ceff",
+    "rainbow_green": "#98fb98",
+    "rainbow_blue": "#ffa0a0",
+    "rainbow_indigo": "#cd853f",
+    "rainbow_violet": "#ffdead",
+
+    "rainbow_red_shimmer": "#ff2b2b",
+    "rainbow_orange_shimmer": "#f0e68c",
+    "rainbow_yellow_shimmer": "#87ceff",
+    "rainbow_green_shimmer": "#98fb98",
+    "rainbow_blue_shimmer": "#ffa0a0",
+    "rainbow_indigo_shimmer": "#cd853f",
+    "rainbow_violet_shimmer": "#ffdead"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Tokyo City Terminal Light",
+  "base": "light",
+  "overrides": {
+    "text": "#28323a",
+    "inverseText": "#fbfbfd",
+    "claude": "#34548a",
+    "inactive": "#b7c5d3",
+    "subtle": "#b7c5d3",
+    "suggestion": "#0f4b6e",
+    "permission": "#5a4a78",
+    "remember": "#5a4a78",
+
+    "success": "#33635c",
+    "error": "#8c4351",
+    "warning": "#8f5e15",
+    "merged": "#5a4a78",
+
+    "promptBorder": "#b7c5d3",
+    "planMode": "#34548a",
+    "autoAccept": "#33635c",
+    "bashBorder": "#5a4a78",
+    "ide": "#0f4b6e",
+    "fastMode": "#965027",
+
+    "userMessageBackground": "#f6f6f8",
+    "userMessageBackgroundHover": "#d8e2ec",
+    "messageActionsBackground": "#d8e2ec",
+    "bashMessageBackgroundColor": "#f6f6f8",
+    "memoryBackgroundColor": "#f6f6f8",
+    "selectionBg": "#d8e2ec",
+
+    "rate_limit_fill": "#34548a",
+    "rate_limit_empty": "#d8e2ec",
+    "briefLabelYou": "#0f4b6e",
+    "briefLabelClaude": "#34548a",
+
+    "claudeShimmer": "#34548a",
+    "warningShimmer": "#8f5e15",
+    "permissionShimmer": "#5a4a78",
+    "promptBorderShimmer": "#526270",
+    "inactiveShimmer": "#526270",
+    "fastModeShimmer": "#965027",
+
+    "red_FOR_SUBAGENTS_ONLY": "#8c4351",
+    "orange_FOR_SUBAGENTS_ONLY": "#965027",
+    "yellow_FOR_SUBAGENTS_ONLY": "#8f5e15",
+    "green_FOR_SUBAGENTS_ONLY": "#33635c",
+    "cyan_FOR_SUBAGENTS_ONLY": "#0f4b6e",
+    "blue_FOR_SUBAGENTS_ONLY": "#34548a",
+    "purple_FOR_SUBAGENTS_ONLY": "#5a4a78",
+    "pink_FOR_SUBAGENTS_ONLY": "#7e5140",
+
+    "rainbow_red": "#8c4351",
+    "rainbow_orange": "#965027",
+    "rainbow_yellow": "#8f5e15",
+    "rainbow_green": "#33635c",
+    "rainbow_blue": "#0f4b6e",
+    "rainbow_indigo": "#34548a",
+    "rainbow_violet": "#5a4a78",
+
+    "rainbow_red_shimmer": "#8c4351",
+    "rainbow_orange_shimmer": "#965027",
+    "rainbow_yellow_shimmer": "#8f5e15",
+    "rainbow_green_shimmer": "#33635c",
+    "rainbow_blue_shimmer": "#0f4b6e",
+    "rainbow_indigo_shimmer": "#34548a",
+    "rainbow_violet_shimmer": "#5a4a78"
+  }
+}

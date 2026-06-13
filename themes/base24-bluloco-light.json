@@ -1,0 +1,70 @@
+{
+  "name": "Bluloco Light",
+  "base": "light",
+  "overrides": {
+    "text": "#38383a",
+    "inverseText": "#f7f7f7",
+    "claude": "#1d44dd",
+    "inactive": "#a6a7ae",
+    "subtle": "#a6a7ae",
+    "suggestion": "#1e4d7a",
+    "permission": "#6d1bed",
+    "remember": "#6d1bed",
+
+    "success": "#208839",
+    "error": "#c80d41",
+    "warning": "#1085d9",
+    "merged": "#6d1bed",
+
+    "promptBorder": "#a6a7ae",
+    "planMode": "#1d44dd",
+    "autoAccept": "#208839",
+    "bashBorder": "#6d1bed",
+    "ide": "#1e4d7a",
+    "fastMode": "#d44d16",
+
+    "userMessageBackground": "#cbccd4",
+    "userMessageBackgroundHover": "#dddee8",
+    "messageActionsBackground": "#dddee8",
+    "bashMessageBackgroundColor": "#cbccd4",
+    "memoryBackgroundColor": "#cbccd4",
+    "selectionBg": "#dddee8",
+
+    "rate_limit_fill": "#1d44dd",
+    "rate_limit_empty": "#dddee8",
+    "briefLabelYou": "#1e4d7a",
+    "briefLabelClaude": "#1d44dd",
+
+    "claudeShimmer": "#1d44dd",
+    "warningShimmer": "#1085d9",
+    "permissionShimmer": "#6d1bed",
+    "promptBorderShimmer": "#6f6f74",
+    "inactiveShimmer": "#6f6f74",
+    "fastModeShimmer": "#d44d16",
+
+    "red_FOR_SUBAGENTS_ONLY": "#c80d41",
+    "orange_FOR_SUBAGENTS_ONLY": "#d44d16",
+    "yellow_FOR_SUBAGENTS_ONLY": "#1085d9",
+    "green_FOR_SUBAGENTS_ONLY": "#208839",
+    "cyan_FOR_SUBAGENTS_ONLY": "#1e4d7a",
+    "blue_FOR_SUBAGENTS_ONLY": "#1d44dd",
+    "purple_FOR_SUBAGENTS_ONLY": "#6d1bed",
+    "pink_FOR_SUBAGENTS_ONLY": "#640620",
+
+    "rainbow_red": "#c80d41",
+    "rainbow_orange": "#d44d16",
+    "rainbow_yellow": "#1085d9",
+    "rainbow_green": "#208839",
+    "rainbow_blue": "#1e4d7a",
+    "rainbow_indigo": "#1d44dd",
+    "rainbow_violet": "#6d1bed",
+
+    "rainbow_red_shimmer": "#c80d41",
+    "rainbow_orange_shimmer": "#d44d16",
+    "rainbow_yellow_shimmer": "#1085d9",
+    "rainbow_green_shimmer": "#208839",
+    "rainbow_blue_shimmer": "#1e4d7a",
+    "rainbow_indigo_shimmer": "#1d44dd",
+    "rainbow_violet_shimmer": "#6d1bed"
+  }
+}

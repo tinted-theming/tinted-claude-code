@@ -1,0 +1,70 @@
+{
+  "name": "eris",
+  "base": "dark",
+  "overrides": {
+    "text": "#606bac",
+    "inverseText": "#0a0920",
+    "claude": "#258fc4",
+    "inactive": "#333773",
+    "subtle": "#333773",
+    "suggestion": "#a2faf0",
+    "permission": "#c368f7",
+    "remember": "#c368f7",
+
+    "success": "#a2faa8",
+    "error": "#f768a3",
+    "warning": "#f7d668",
+    "merged": "#c368f7",
+
+    "promptBorder": "#333773",
+    "planMode": "#258fc4",
+    "autoAccept": "#a2faa8",
+    "bashBorder": "#c368f7",
+    "ide": "#a2faf0",
+    "fastMode": "#f78968",
+
+    "userMessageBackground": "#13133a",
+    "userMessageBackgroundHover": "#23255a",
+    "messageActionsBackground": "#23255a",
+    "bashMessageBackgroundColor": "#13133a",
+    "memoryBackgroundColor": "#13133a",
+    "selectionBg": "#23255a",
+
+    "rate_limit_fill": "#258fc4",
+    "rate_limit_empty": "#23255a",
+    "briefLabelYou": "#a2faf0",
+    "briefLabelClaude": "#258fc4",
+
+    "claudeShimmer": "#258fc4",
+    "warningShimmer": "#f7d668",
+    "permissionShimmer": "#c368f7",
+    "promptBorderShimmer": "#4a5293",
+    "inactiveShimmer": "#4a5293",
+    "fastModeShimmer": "#f78968",
+
+    "red_FOR_SUBAGENTS_ONLY": "#f768a3",
+    "orange_FOR_SUBAGENTS_ONLY": "#f78968",
+    "yellow_FOR_SUBAGENTS_ONLY": "#f7d668",
+    "green_FOR_SUBAGENTS_ONLY": "#a2faa8",
+    "cyan_FOR_SUBAGENTS_ONLY": "#a2faf0",
+    "blue_FOR_SUBAGENTS_ONLY": "#258fc4",
+    "purple_FOR_SUBAGENTS_ONLY": "#c368f7",
+    "pink_FOR_SUBAGENTS_ONLY": "#b85600",
+
+    "rainbow_red": "#f768a3",
+    "rainbow_orange": "#f78968",
+    "rainbow_yellow": "#f7d668",
+    "rainbow_green": "#a2faa8",
+    "rainbow_blue": "#a2faf0",
+    "rainbow_indigo": "#258fc4",
+    "rainbow_violet": "#c368f7",
+
+    "rainbow_red_shimmer": "#f768a3",
+    "rainbow_orange_shimmer": "#f78968",
+    "rainbow_yellow_shimmer": "#f7d668",
+    "rainbow_green_shimmer": "#a2faa8",
+    "rainbow_blue_shimmer": "#a2faf0",
+    "rainbow_indigo_shimmer": "#258fc4",
+    "rainbow_violet_shimmer": "#c368f7"
+  }
+}

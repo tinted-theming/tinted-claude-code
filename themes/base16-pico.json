@@ -1,0 +1,70 @@
+{
+  "name": "Pico",
+  "base": "dark",
+  "overrides": {
+    "text": "#5f574f",
+    "inverseText": "#000000",
+    "claude": "#83769c",
+    "inactive": "#008751",
+    "subtle": "#008751",
+    "suggestion": "#29adff",
+    "permission": "#ff77a8",
+    "remember": "#ff77a8",
+
+    "success": "#00e756",
+    "error": "#ff004d",
+    "warning": "#fff024",
+    "merged": "#ff77a8",
+
+    "promptBorder": "#008751",
+    "planMode": "#83769c",
+    "autoAccept": "#00e756",
+    "bashBorder": "#ff77a8",
+    "ide": "#29adff",
+    "fastMode": "#ffa300",
+
+    "userMessageBackground": "#1d2b53",
+    "userMessageBackgroundHover": "#7e2553",
+    "messageActionsBackground": "#7e2553",
+    "bashMessageBackgroundColor": "#1d2b53",
+    "memoryBackgroundColor": "#1d2b53",
+    "selectionBg": "#7e2553",
+
+    "rate_limit_fill": "#83769c",
+    "rate_limit_empty": "#7e2553",
+    "briefLabelYou": "#29adff",
+    "briefLabelClaude": "#83769c",
+
+    "claudeShimmer": "#83769c",
+    "warningShimmer": "#fff024",
+    "permissionShimmer": "#ff77a8",
+    "promptBorderShimmer": "#ab5236",
+    "inactiveShimmer": "#ab5236",
+    "fastModeShimmer": "#ffa300",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff004d",
+    "orange_FOR_SUBAGENTS_ONLY": "#ffa300",
+    "yellow_FOR_SUBAGENTS_ONLY": "#fff024",
+    "green_FOR_SUBAGENTS_ONLY": "#00e756",
+    "cyan_FOR_SUBAGENTS_ONLY": "#29adff",
+    "blue_FOR_SUBAGENTS_ONLY": "#83769c",
+    "purple_FOR_SUBAGENTS_ONLY": "#ff77a8",
+    "pink_FOR_SUBAGENTS_ONLY": "#ffccaa",
+
+    "rainbow_red": "#ff004d",
+    "rainbow_orange": "#ffa300",
+    "rainbow_yellow": "#fff024",
+    "rainbow_green": "#00e756",
+    "rainbow_blue": "#29adff",
+    "rainbow_indigo": "#83769c",
+    "rainbow_violet": "#ff77a8",
+
+    "rainbow_red_shimmer": "#ff004d",
+    "rainbow_orange_shimmer": "#ffa300",
+    "rainbow_yellow_shimmer": "#fff024",
+    "rainbow_green_shimmer": "#00e756",
+    "rainbow_blue_shimmer": "#29adff",
+    "rainbow_indigo_shimmer": "#83769c",
+    "rainbow_violet_shimmer": "#ff77a8"
+  }
+}

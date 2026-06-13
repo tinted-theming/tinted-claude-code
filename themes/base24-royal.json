@@ -1,0 +1,70 @@
+{
+  "name": "Royal",
+  "base": "dark",
+  "overrides": {
+    "text": "#49425a",
+    "inverseText": "#100814",
+    "claude": "#6480af",
+    "inactive": "#393446",
+    "subtle": "#393446",
+    "suggestion": "#8aaabd",
+    "permission": "#664d96",
+    "remember": "#664d96",
+
+    "success": "#23801c",
+    "error": "#90274b",
+    "warning": "#8fb9f9",
+    "merged": "#664d96",
+
+    "promptBorder": "#393446",
+    "planMode": "#6480af",
+    "autoAccept": "#23801c",
+    "bashBorder": "#664d96",
+    "ide": "#8aaabd",
+    "fastMode": "#b49d27",
+
+    "userMessageBackground": "#241f2a",
+    "userMessageBackgroundHover": "#312d3c",
+    "messageActionsBackground": "#312d3c",
+    "bashMessageBackgroundColor": "#241f2a",
+    "memoryBackgroundColor": "#241f2a",
+    "selectionBg": "#312d3c",
+
+    "rate_limit_fill": "#6480af",
+    "rate_limit_empty": "#312d3c",
+    "briefLabelYou": "#8aaabd",
+    "briefLabelClaude": "#6480af",
+
+    "claudeShimmer": "#6480af",
+    "warningShimmer": "#8fb9f9",
+    "permissionShimmer": "#664d96",
+    "promptBorderShimmer": "#413b50",
+    "inactiveShimmer": "#413b50",
+    "fastModeShimmer": "#b49d27",
+
+    "red_FOR_SUBAGENTS_ONLY": "#90274b",
+    "orange_FOR_SUBAGENTS_ONLY": "#b49d27",
+    "yellow_FOR_SUBAGENTS_ONLY": "#8fb9f9",
+    "green_FOR_SUBAGENTS_ONLY": "#23801c",
+    "cyan_FOR_SUBAGENTS_ONLY": "#8aaabd",
+    "blue_FOR_SUBAGENTS_ONLY": "#6480af",
+    "purple_FOR_SUBAGENTS_ONLY": "#664d96",
+    "pink_FOR_SUBAGENTS_ONLY": "#481325",
+
+    "rainbow_red": "#90274b",
+    "rainbow_orange": "#b49d27",
+    "rainbow_yellow": "#8fb9f9",
+    "rainbow_green": "#23801c",
+    "rainbow_blue": "#8aaabd",
+    "rainbow_indigo": "#6480af",
+    "rainbow_violet": "#664d96",
+
+    "rainbow_red_shimmer": "#90274b",
+    "rainbow_orange_shimmer": "#b49d27",
+    "rainbow_yellow_shimmer": "#8fb9f9",
+    "rainbow_green_shimmer": "#23801c",
+    "rainbow_blue_shimmer": "#8aaabd",
+    "rainbow_indigo_shimmer": "#6480af",
+    "rainbow_violet_shimmer": "#664d96"
+  }
+}

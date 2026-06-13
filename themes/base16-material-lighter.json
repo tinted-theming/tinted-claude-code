@@ -1,0 +1,70 @@
+{
+  "name": "Material Lighter",
+  "base": "light",
+  "overrides": {
+    "text": "#80cbc4",
+    "inverseText": "#fafafa",
+    "claude": "#6182b8",
+    "inactive": "#ccd7da",
+    "subtle": "#ccd7da",
+    "suggestion": "#39adb5",
+    "permission": "#7c4dff",
+    "remember": "#7c4dff",
+
+    "success": "#91b859",
+    "error": "#ff5370",
+    "warning": "#ffb62c",
+    "merged": "#7c4dff",
+
+    "promptBorder": "#ccd7da",
+    "planMode": "#6182b8",
+    "autoAccept": "#91b859",
+    "bashBorder": "#7c4dff",
+    "ide": "#39adb5",
+    "fastMode": "#f76d47",
+
+    "userMessageBackground": "#e7eaec",
+    "userMessageBackgroundHover": "#cceae7",
+    "messageActionsBackground": "#cceae7",
+    "bashMessageBackgroundColor": "#e7eaec",
+    "memoryBackgroundColor": "#e7eaec",
+    "selectionBg": "#cceae7",
+
+    "rate_limit_fill": "#6182b8",
+    "rate_limit_empty": "#cceae7",
+    "briefLabelYou": "#39adb5",
+    "briefLabelClaude": "#6182b8",
+
+    "claudeShimmer": "#6182b8",
+    "warningShimmer": "#ffb62c",
+    "permissionShimmer": "#7c4dff",
+    "promptBorderShimmer": "#8796b0",
+    "inactiveShimmer": "#8796b0",
+    "fastModeShimmer": "#f76d47",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff5370",
+    "orange_FOR_SUBAGENTS_ONLY": "#f76d47",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffb62c",
+    "green_FOR_SUBAGENTS_ONLY": "#91b859",
+    "cyan_FOR_SUBAGENTS_ONLY": "#39adb5",
+    "blue_FOR_SUBAGENTS_ONLY": "#6182b8",
+    "purple_FOR_SUBAGENTS_ONLY": "#7c4dff",
+    "pink_FOR_SUBAGENTS_ONLY": "#e53935",
+
+    "rainbow_red": "#ff5370",
+    "rainbow_orange": "#f76d47",
+    "rainbow_yellow": "#ffb62c",
+    "rainbow_green": "#91b859",
+    "rainbow_blue": "#39adb5",
+    "rainbow_indigo": "#6182b8",
+    "rainbow_violet": "#7c4dff",
+
+    "rainbow_red_shimmer": "#ff5370",
+    "rainbow_orange_shimmer": "#f76d47",
+    "rainbow_yellow_shimmer": "#ffb62c",
+    "rainbow_green_shimmer": "#91b859",
+    "rainbow_blue_shimmer": "#39adb5",
+    "rainbow_indigo_shimmer": "#6182b8",
+    "rainbow_violet_shimmer": "#7c4dff"
+  }
+}

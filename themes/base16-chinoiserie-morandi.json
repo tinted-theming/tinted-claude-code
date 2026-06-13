@@ -1,0 +1,70 @@
+{
+  "name": "Chinoiserie Morandi",
+  "base": "dark",
+  "overrides": {
+    "text": "#c4cbcf",
+    "inverseText": "#1d1d1d",
+    "claude": "#839ec9",
+    "inactive": "#918072",
+    "subtle": "#918072",
+    "suggestion": "#5e8c9b",
+    "permission": "#98a1d8",
+    "remember": "#98a1d8",
+
+    "success": "#8ca07b",
+    "error": "#c06061",
+    "warning": "#e5bc84",
+    "merged": "#98a1d8",
+
+    "promptBorder": "#918072",
+    "planMode": "#839ec9",
+    "autoAccept": "#8ca07b",
+    "bashBorder": "#98a1d8",
+    "ide": "#5e8c9b",
+    "fastMode": "#ff937f",
+
+    "userMessageBackground": "#282828",
+    "userMessageBackgroundHover": "#373737",
+    "messageActionsBackground": "#373737",
+    "bashMessageBackgroundColor": "#282828",
+    "memoryBackgroundColor": "#282828",
+    "selectionBg": "#373737",
+
+    "rate_limit_fill": "#839ec9",
+    "rate_limit_empty": "#373737",
+    "briefLabelYou": "#5e8c9b",
+    "briefLabelClaude": "#839ec9",
+
+    "claudeShimmer": "#839ec9",
+    "warningShimmer": "#e5bc84",
+    "permissionShimmer": "#98a1d8",
+    "promptBorderShimmer": "#bdaead",
+    "inactiveShimmer": "#bdaead",
+    "fastModeShimmer": "#ff937f",
+
+    "red_FOR_SUBAGENTS_ONLY": "#c06061",
+    "orange_FOR_SUBAGENTS_ONLY": "#ff937f",
+    "yellow_FOR_SUBAGENTS_ONLY": "#e5bc84",
+    "green_FOR_SUBAGENTS_ONLY": "#8ca07b",
+    "cyan_FOR_SUBAGENTS_ONLY": "#5e8c9b",
+    "blue_FOR_SUBAGENTS_ONLY": "#839ec9",
+    "purple_FOR_SUBAGENTS_ONLY": "#98a1d8",
+    "pink_FOR_SUBAGENTS_ONLY": "#d9cdb4",
+
+    "rainbow_red": "#c06061",
+    "rainbow_orange": "#ff937f",
+    "rainbow_yellow": "#e5bc84",
+    "rainbow_green": "#8ca07b",
+    "rainbow_blue": "#5e8c9b",
+    "rainbow_indigo": "#839ec9",
+    "rainbow_violet": "#98a1d8",
+
+    "rainbow_red_shimmer": "#c06061",
+    "rainbow_orange_shimmer": "#ff937f",
+    "rainbow_yellow_shimmer": "#e5bc84",
+    "rainbow_green_shimmer": "#8ca07b",
+    "rainbow_blue_shimmer": "#5e8c9b",
+    "rainbow_indigo_shimmer": "#839ec9",
+    "rainbow_violet_shimmer": "#98a1d8"
+  }
+}

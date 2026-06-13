@@ -1,0 +1,70 @@
+{
+  "name": "deep",
+  "base": "dark",
+  "overrides": {
+    "text": "#bcbcbc",
+    "inverseText": "#080808",
+    "claude": "#5665fe",
+    "inactive": "#767676",
+    "subtle": "#767676",
+    "suggestion": "#4fd2d9",
+    "permission": "#af51d9",
+    "remember": "#af51d9",
+
+    "success": "#1cd815",
+    "error": "#d60005",
+    "warning": "#9fa8fe",
+    "merged": "#af51d9",
+
+    "promptBorder": "#767676",
+    "planMode": "#5665fe",
+    "autoAccept": "#1cd815",
+    "bashBorder": "#af51d9",
+    "ide": "#4fd2d9",
+    "fastMode": "#d9bc25",
+
+    "userMessageBackground": "#000000",
+    "userMessageBackgroundHover": "#535353",
+    "messageActionsBackground": "#535353",
+    "bashMessageBackgroundColor": "#000000",
+    "memoryBackgroundColor": "#000000",
+    "selectionBg": "#535353",
+
+    "rate_limit_fill": "#5665fe",
+    "rate_limit_empty": "#535353",
+    "briefLabelYou": "#4fd2d9",
+    "briefLabelClaude": "#5665fe",
+
+    "claudeShimmer": "#5665fe",
+    "warningShimmer": "#9fa8fe",
+    "permissionShimmer": "#af51d9",
+    "promptBorderShimmer": "#999999",
+    "inactiveShimmer": "#999999",
+    "fastModeShimmer": "#d9bc25",
+
+    "red_FOR_SUBAGENTS_ONLY": "#d60005",
+    "orange_FOR_SUBAGENTS_ONLY": "#d9bc25",
+    "yellow_FOR_SUBAGENTS_ONLY": "#9fa8fe",
+    "green_FOR_SUBAGENTS_ONLY": "#1cd815",
+    "cyan_FOR_SUBAGENTS_ONLY": "#4fd2d9",
+    "blue_FOR_SUBAGENTS_ONLY": "#5665fe",
+    "purple_FOR_SUBAGENTS_ONLY": "#af51d9",
+    "pink_FOR_SUBAGENTS_ONLY": "#6b0002",
+
+    "rainbow_red": "#d60005",
+    "rainbow_orange": "#d9bc25",
+    "rainbow_yellow": "#9fa8fe",
+    "rainbow_green": "#1cd815",
+    "rainbow_blue": "#4fd2d9",
+    "rainbow_indigo": "#5665fe",
+    "rainbow_violet": "#af51d9",
+
+    "rainbow_red_shimmer": "#d60005",
+    "rainbow_orange_shimmer": "#d9bc25",
+    "rainbow_yellow_shimmer": "#9fa8fe",
+    "rainbow_green_shimmer": "#1cd815",
+    "rainbow_blue_shimmer": "#4fd2d9",
+    "rainbow_indigo_shimmer": "#5665fe",
+    "rainbow_violet_shimmer": "#af51d9"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Tango",
+  "base": "dark",
+  "overrides": {
+    "text": "#d3d7cf",
+    "inverseText": "#2e3436",
+    "claude": "#3465a4",
+    "inactive": "#555753",
+    "subtle": "#555753",
+    "suggestion": "#06989a",
+    "permission": "#75507b",
+    "remember": "#75507b",
+
+    "success": "#4e9a06",
+    "error": "#cc0000",
+    "warning": "#c4a000",
+    "merged": "#75507b",
+
+    "promptBorder": "#555753",
+    "planMode": "#3465a4",
+    "autoAccept": "#4e9a06",
+    "bashBorder": "#75507b",
+    "ide": "#06989a",
+    "fastMode": "#ef2929",
+
+    "userMessageBackground": "#8ae234",
+    "userMessageBackgroundHover": "#fce94f",
+    "messageActionsBackground": "#fce94f",
+    "bashMessageBackgroundColor": "#8ae234",
+    "memoryBackgroundColor": "#8ae234",
+    "selectionBg": "#fce94f",
+
+    "rate_limit_fill": "#3465a4",
+    "rate_limit_empty": "#fce94f",
+    "briefLabelYou": "#06989a",
+    "briefLabelClaude": "#3465a4",
+
+    "claudeShimmer": "#3465a4",
+    "warningShimmer": "#c4a000",
+    "permissionShimmer": "#75507b",
+    "promptBorderShimmer": "#729fcf",
+    "inactiveShimmer": "#729fcf",
+    "fastModeShimmer": "#ef2929",
+
+    "red_FOR_SUBAGENTS_ONLY": "#cc0000",
+    "orange_FOR_SUBAGENTS_ONLY": "#ef2929",
+    "yellow_FOR_SUBAGENTS_ONLY": "#c4a000",
+    "green_FOR_SUBAGENTS_ONLY": "#4e9a06",
+    "cyan_FOR_SUBAGENTS_ONLY": "#06989a",
+    "blue_FOR_SUBAGENTS_ONLY": "#3465a4",
+    "purple_FOR_SUBAGENTS_ONLY": "#75507b",
+    "pink_FOR_SUBAGENTS_ONLY": "#34e2e2",
+
+    "rainbow_red": "#cc0000",
+    "rainbow_orange": "#ef2929",
+    "rainbow_yellow": "#c4a000",
+    "rainbow_green": "#4e9a06",
+    "rainbow_blue": "#06989a",
+    "rainbow_indigo": "#3465a4",
+    "rainbow_violet": "#75507b",
+
+    "rainbow_red_shimmer": "#cc0000",
+    "rainbow_orange_shimmer": "#ef2929",
+    "rainbow_yellow_shimmer": "#c4a000",
+    "rainbow_green_shimmer": "#4e9a06",
+    "rainbow_blue_shimmer": "#06989a",
+    "rainbow_indigo_shimmer": "#3465a4",
+    "rainbow_violet_shimmer": "#75507b"
+  }
+}

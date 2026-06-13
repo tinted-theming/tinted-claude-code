@@ -1,0 +1,70 @@
+{
+  "name": "Penumbra Light",
+  "base": "light",
+  "overrides": {
+    "text": "#636363",
+    "inverseText": "#fffdfb",
+    "claude": "#5794d0",
+    "inactive": "#bebebe",
+    "subtle": "#bebebe",
+    "suggestion": "#00a2af",
+    "permission": "#9481cc",
+    "remember": "#9481cc",
+
+    "success": "#47a477",
+    "error": "#ca736c",
+    "warning": "#8d9741",
+    "merged": "#9481cc",
+
+    "promptBorder": "#bebebe",
+    "planMode": "#5794d0",
+    "autoAccept": "#47a477",
+    "bashBorder": "#9481cc",
+    "ide": "#00a2af",
+    "fastMode": "#ba823a",
+
+    "userMessageBackground": "#fff7ed",
+    "userMessageBackgroundHover": "#f2e6d4",
+    "messageActionsBackground": "#f2e6d4",
+    "bashMessageBackgroundColor": "#fff7ed",
+    "memoryBackgroundColor": "#fff7ed",
+    "selectionBg": "#f2e6d4",
+
+    "rate_limit_fill": "#5794d0",
+    "rate_limit_empty": "#f2e6d4",
+    "briefLabelYou": "#00a2af",
+    "briefLabelClaude": "#5794d0",
+
+    "claudeShimmer": "#5794d0",
+    "warningShimmer": "#8d9741",
+    "permissionShimmer": "#9481cc",
+    "promptBorderShimmer": "#8f8f8f",
+    "inactiveShimmer": "#8f8f8f",
+    "fastModeShimmer": "#ba823a",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ca736c",
+    "orange_FOR_SUBAGENTS_ONLY": "#ba823a",
+    "yellow_FOR_SUBAGENTS_ONLY": "#8d9741",
+    "green_FOR_SUBAGENTS_ONLY": "#47a477",
+    "cyan_FOR_SUBAGENTS_ONLY": "#00a2af",
+    "blue_FOR_SUBAGENTS_ONLY": "#5794d0",
+    "purple_FOR_SUBAGENTS_ONLY": "#9481cc",
+    "pink_FOR_SUBAGENTS_ONLY": "#bc73a4",
+
+    "rainbow_red": "#ca736c",
+    "rainbow_orange": "#ba823a",
+    "rainbow_yellow": "#8d9741",
+    "rainbow_green": "#47a477",
+    "rainbow_blue": "#00a2af",
+    "rainbow_indigo": "#5794d0",
+    "rainbow_violet": "#9481cc",
+
+    "rainbow_red_shimmer": "#ca736c",
+    "rainbow_orange_shimmer": "#ba823a",
+    "rainbow_yellow_shimmer": "#8d9741",
+    "rainbow_green_shimmer": "#47a477",
+    "rainbow_blue_shimmer": "#00a2af",
+    "rainbow_indigo_shimmer": "#5794d0",
+    "rainbow_violet_shimmer": "#9481cc"
+  }
+}

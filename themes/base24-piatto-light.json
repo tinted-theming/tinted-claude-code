@@ -1,0 +1,70 @@
+{
+  "name": "Piatto Light",
+  "base": "light",
+  "overrides": {
+    "text": "#515151",
+    "inverseText": "#ffffff",
+    "claude": "#3c5ea8",
+    "inactive": "#c1c1c1",
+    "subtle": "#c1c1c1",
+    "suggestion": "#1e7878",
+    "permission": "#a454b2",
+    "remember": "#a454b2",
+
+    "success": "#66781e",
+    "error": "#b23771",
+    "warning": "#cda434",
+    "merged": "#a454b2",
+
+    "promptBorder": "#c1c1c1",
+    "planMode": "#3c5ea8",
+    "autoAccept": "#66781e",
+    "bashBorder": "#a454b2",
+    "ide": "#1e7878",
+    "fastMode": "#cd6f34",
+
+    "userMessageBackground": "#f1f1f1",
+    "userMessageBackgroundHover": "#e1e1e1",
+    "messageActionsBackground": "#e1e1e1",
+    "bashMessageBackgroundColor": "#f1f1f1",
+    "memoryBackgroundColor": "#f1f1f1",
+    "selectionBg": "#e1e1e1",
+
+    "rate_limit_fill": "#3c5ea8",
+    "rate_limit_empty": "#e1e1e1",
+    "briefLabelYou": "#1e7878",
+    "briefLabelClaude": "#3c5ea8",
+
+    "claudeShimmer": "#3c5ea8",
+    "warningShimmer": "#cda434",
+    "permissionShimmer": "#a454b2",
+    "promptBorderShimmer": "#717171",
+    "inactiveShimmer": "#717171",
+    "fastModeShimmer": "#cd6f34",
+
+    "red_FOR_SUBAGENTS_ONLY": "#b23771",
+    "orange_FOR_SUBAGENTS_ONLY": "#cd6f34",
+    "yellow_FOR_SUBAGENTS_ONLY": "#cda434",
+    "green_FOR_SUBAGENTS_ONLY": "#66781e",
+    "cyan_FOR_SUBAGENTS_ONLY": "#1e7878",
+    "blue_FOR_SUBAGENTS_ONLY": "#3c5ea8",
+    "purple_FOR_SUBAGENTS_ONLY": "#a454b2",
+    "pink_FOR_SUBAGENTS_ONLY": "#591b38",
+
+    "rainbow_red": "#b23771",
+    "rainbow_orange": "#cd6f34",
+    "rainbow_yellow": "#cda434",
+    "rainbow_green": "#66781e",
+    "rainbow_blue": "#1e7878",
+    "rainbow_indigo": "#3c5ea8",
+    "rainbow_violet": "#a454b2",
+
+    "rainbow_red_shimmer": "#b23771",
+    "rainbow_orange_shimmer": "#cd6f34",
+    "rainbow_yellow_shimmer": "#cda434",
+    "rainbow_green_shimmer": "#66781e",
+    "rainbow_blue_shimmer": "#1e7878",
+    "rainbow_indigo_shimmer": "#3c5ea8",
+    "rainbow_violet_shimmer": "#a454b2"
+  }
+}

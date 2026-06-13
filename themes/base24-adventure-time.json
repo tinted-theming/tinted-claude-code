@@ -1,0 +1,70 @@
+{
+  "name": "Adventure Time",
+  "base": "dark",
+  "overrides": {
+    "text": "#cdc3bf",
+    "inverseText": "#1e1c44",
+    "claude": "#0f49c6",
+    "inactive": "#7893bf",
+    "subtle": "#7893bf",
+    "suggestion": "#6fa497",
+    "permission": "#665992",
+    "remember": "#665992",
+
+    "success": "#49b117",
+    "error": "#bc0013",
+    "warning": "#1896c6",
+    "merged": "#665992",
+
+    "promptBorder": "#7893bf",
+    "planMode": "#0f49c6",
+    "autoAccept": "#49b117",
+    "bashBorder": "#665992",
+    "ide": "#6fa497",
+    "fastMode": "#e6741d",
+
+    "userMessageBackground": "#050404",
+    "userMessageBackgroundHover": "#4e7bbf",
+    "messageActionsBackground": "#4e7bbf",
+    "bashMessageBackgroundColor": "#050404",
+    "memoryBackgroundColor": "#050404",
+    "selectionBg": "#4e7bbf",
+
+    "rate_limit_fill": "#0f49c6",
+    "rate_limit_empty": "#4e7bbf",
+    "briefLabelYou": "#6fa497",
+    "briefLabelClaude": "#0f49c6",
+
+    "claudeShimmer": "#0f49c6",
+    "warningShimmer": "#1896c6",
+    "permissionShimmer": "#665992",
+    "promptBorderShimmer": "#a3abbf",
+    "inactiveShimmer": "#a3abbf",
+    "fastModeShimmer": "#e6741d",
+
+    "red_FOR_SUBAGENTS_ONLY": "#bc0013",
+    "orange_FOR_SUBAGENTS_ONLY": "#e6741d",
+    "yellow_FOR_SUBAGENTS_ONLY": "#1896c6",
+    "green_FOR_SUBAGENTS_ONLY": "#49b117",
+    "cyan_FOR_SUBAGENTS_ONLY": "#6fa497",
+    "blue_FOR_SUBAGENTS_ONLY": "#0f49c6",
+    "purple_FOR_SUBAGENTS_ONLY": "#665992",
+    "pink_FOR_SUBAGENTS_ONLY": "#5e0009",
+
+    "rainbow_red": "#bc0013",
+    "rainbow_orange": "#e6741d",
+    "rainbow_yellow": "#1896c6",
+    "rainbow_green": "#49b117",
+    "rainbow_blue": "#6fa497",
+    "rainbow_indigo": "#0f49c6",
+    "rainbow_violet": "#665992",
+
+    "rainbow_red_shimmer": "#bc0013",
+    "rainbow_orange_shimmer": "#e6741d",
+    "rainbow_yellow_shimmer": "#1896c6",
+    "rainbow_green_shimmer": "#49b117",
+    "rainbow_blue_shimmer": "#6fa497",
+    "rainbow_indigo_shimmer": "#0f49c6",
+    "rainbow_violet_shimmer": "#665992"
+  }
+}

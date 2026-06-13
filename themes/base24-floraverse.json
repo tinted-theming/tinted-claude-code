@@ -1,0 +1,70 @@
+{
+  "name": "Floraverse",
+  "base": "dark",
+  "overrides": {
+    "text": "#c3af9d",
+    "inverseText": "#0e0c15",
+    "claude": "#1d6da1",
+    "inactive": "#634e67",
+    "subtle": "#634e67",
+    "suggestion": "#42a38c",
+    "permission": "#b7077e",
+    "remember": "#b7077e",
+
+    "success": "#5d731a",
+    "error": "#64002c",
+    "warning": "#40a4cf",
+    "merged": "#b7077e",
+
+    "promptBorder": "#634e67",
+    "planMode": "#1d6da1",
+    "autoAccept": "#5d731a",
+    "bashBorder": "#b7077e",
+    "ide": "#42a38c",
+    "fastMode": "#cd751c",
+
+    "userMessageBackground": "#08002e",
+    "userMessageBackgroundHover": "#331e4d",
+    "messageActionsBackground": "#331e4d",
+    "bashMessageBackgroundColor": "#08002e",
+    "memoryBackgroundColor": "#08002e",
+    "selectionBg": "#331e4d",
+
+    "rate_limit_fill": "#1d6da1",
+    "rate_limit_empty": "#331e4d",
+    "briefLabelYou": "#42a38c",
+    "briefLabelClaude": "#1d6da1",
+
+    "claudeShimmer": "#1d6da1",
+    "warningShimmer": "#40a4cf",
+    "permissionShimmer": "#b7077e",
+    "promptBorderShimmer": "#937f82",
+    "inactiveShimmer": "#937f82",
+    "fastModeShimmer": "#cd751c",
+
+    "red_FOR_SUBAGENTS_ONLY": "#64002c",
+    "orange_FOR_SUBAGENTS_ONLY": "#cd751c",
+    "yellow_FOR_SUBAGENTS_ONLY": "#40a4cf",
+    "green_FOR_SUBAGENTS_ONLY": "#5d731a",
+    "cyan_FOR_SUBAGENTS_ONLY": "#42a38c",
+    "blue_FOR_SUBAGENTS_ONLY": "#1d6da1",
+    "purple_FOR_SUBAGENTS_ONLY": "#b7077e",
+    "pink_FOR_SUBAGENTS_ONLY": "#320016",
+
+    "rainbow_red": "#64002c",
+    "rainbow_orange": "#cd751c",
+    "rainbow_yellow": "#40a4cf",
+    "rainbow_green": "#5d731a",
+    "rainbow_blue": "#42a38c",
+    "rainbow_indigo": "#1d6da1",
+    "rainbow_violet": "#b7077e",
+
+    "rainbow_red_shimmer": "#64002c",
+    "rainbow_orange_shimmer": "#cd751c",
+    "rainbow_yellow_shimmer": "#40a4cf",
+    "rainbow_green_shimmer": "#5d731a",
+    "rainbow_blue_shimmer": "#42a38c",
+    "rainbow_indigo_shimmer": "#1d6da1",
+    "rainbow_violet_shimmer": "#b7077e"
+  }
+}

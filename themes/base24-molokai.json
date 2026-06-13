@@ -1,0 +1,70 @@
+{
+  "name": "Molokai",
+  "base": "dark",
+  "overrides": {
+    "text": "#a1a1a1",
+    "inverseText": "#121212",
+    "claude": "#0f7fcf",
+    "inactive": "#6e6e6e",
+    "subtle": "#6e6e6e",
+    "suggestion": "#42a7cf",
+    "permission": "#8700ff",
+    "remember": "#8700ff",
+
+    "success": "#97e123",
+    "error": "#fa2573",
+    "warning": "#00afff",
+    "merged": "#8700ff",
+
+    "promptBorder": "#6e6e6e",
+    "planMode": "#0f7fcf",
+    "autoAccept": "#97e123",
+    "bashBorder": "#8700ff",
+    "ide": "#42a7cf",
+    "fastMode": "#dfd460",
+
+    "userMessageBackground": "#121212",
+    "userMessageBackgroundHover": "#555555",
+    "messageActionsBackground": "#555555",
+    "bashMessageBackgroundColor": "#121212",
+    "memoryBackgroundColor": "#121212",
+    "selectionBg": "#555555",
+
+    "rate_limit_fill": "#0f7fcf",
+    "rate_limit_empty": "#555555",
+    "briefLabelYou": "#42a7cf",
+    "briefLabelClaude": "#0f7fcf",
+
+    "claudeShimmer": "#0f7fcf",
+    "warningShimmer": "#00afff",
+    "permissionShimmer": "#8700ff",
+    "promptBorderShimmer": "#888888",
+    "inactiveShimmer": "#888888",
+    "fastModeShimmer": "#dfd460",
+
+    "red_FOR_SUBAGENTS_ONLY": "#fa2573",
+    "orange_FOR_SUBAGENTS_ONLY": "#dfd460",
+    "yellow_FOR_SUBAGENTS_ONLY": "#00afff",
+    "green_FOR_SUBAGENTS_ONLY": "#97e123",
+    "cyan_FOR_SUBAGENTS_ONLY": "#42a7cf",
+    "blue_FOR_SUBAGENTS_ONLY": "#0f7fcf",
+    "purple_FOR_SUBAGENTS_ONLY": "#8700ff",
+    "pink_FOR_SUBAGENTS_ONLY": "#7d1239",
+
+    "rainbow_red": "#fa2573",
+    "rainbow_orange": "#dfd460",
+    "rainbow_yellow": "#00afff",
+    "rainbow_green": "#97e123",
+    "rainbow_blue": "#42a7cf",
+    "rainbow_indigo": "#0f7fcf",
+    "rainbow_violet": "#8700ff",
+
+    "rainbow_red_shimmer": "#fa2573",
+    "rainbow_orange_shimmer": "#dfd460",
+    "rainbow_yellow_shimmer": "#00afff",
+    "rainbow_green_shimmer": "#97e123",
+    "rainbow_blue_shimmer": "#42a7cf",
+    "rainbow_indigo_shimmer": "#0f7fcf",
+    "rainbow_violet_shimmer": "#8700ff"
+  }
+}

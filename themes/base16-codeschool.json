@@ -1,0 +1,70 @@
+{
+  "name": "Codeschool",
+  "base": "dark",
+  "overrides": {
+    "text": "#9ea7a6",
+    "inverseText": "#232c31",
+    "claude": "#484d79",
+    "inactive": "#3f4944",
+    "subtle": "#3f4944",
+    "suggestion": "#b02f30",
+    "permission": "#c59820",
+    "remember": "#c59820",
+
+    "success": "#237986",
+    "error": "#2a5491",
+    "warning": "#a03b1e",
+    "merged": "#c59820",
+
+    "promptBorder": "#3f4944",
+    "planMode": "#484d79",
+    "autoAccept": "#237986",
+    "bashBorder": "#c59820",
+    "ide": "#b02f30",
+    "fastMode": "#43820d",
+
+    "userMessageBackground": "#1c3657",
+    "userMessageBackgroundHover": "#2a343a",
+    "messageActionsBackground": "#2a343a",
+    "bashMessageBackgroundColor": "#1c3657",
+    "memoryBackgroundColor": "#1c3657",
+    "selectionBg": "#2a343a",
+
+    "rate_limit_fill": "#484d79",
+    "rate_limit_empty": "#2a343a",
+    "briefLabelYou": "#b02f30",
+    "briefLabelClaude": "#484d79",
+
+    "claudeShimmer": "#484d79",
+    "warningShimmer": "#a03b1e",
+    "permissionShimmer": "#c59820",
+    "promptBorderShimmer": "#84898c",
+    "inactiveShimmer": "#84898c",
+    "fastModeShimmer": "#43820d",
+
+    "red_FOR_SUBAGENTS_ONLY": "#2a5491",
+    "orange_FOR_SUBAGENTS_ONLY": "#43820d",
+    "yellow_FOR_SUBAGENTS_ONLY": "#a03b1e",
+    "green_FOR_SUBAGENTS_ONLY": "#237986",
+    "cyan_FOR_SUBAGENTS_ONLY": "#b02f30",
+    "blue_FOR_SUBAGENTS_ONLY": "#484d79",
+    "purple_FOR_SUBAGENTS_ONLY": "#c59820",
+    "pink_FOR_SUBAGENTS_ONLY": "#c98344",
+
+    "rainbow_red": "#2a5491",
+    "rainbow_orange": "#43820d",
+    "rainbow_yellow": "#a03b1e",
+    "rainbow_green": "#237986",
+    "rainbow_blue": "#b02f30",
+    "rainbow_indigo": "#484d79",
+    "rainbow_violet": "#c59820",
+
+    "rainbow_red_shimmer": "#2a5491",
+    "rainbow_orange_shimmer": "#43820d",
+    "rainbow_yellow_shimmer": "#a03b1e",
+    "rainbow_green_shimmer": "#237986",
+    "rainbow_blue_shimmer": "#b02f30",
+    "rainbow_indigo_shimmer": "#484d79",
+    "rainbow_violet_shimmer": "#c59820"
+  }
+}

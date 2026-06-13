@@ -1,0 +1,70 @@
+{
+  "name": "Jabuti",
+  "base": "dark",
+  "overrides": {
+    "text": "#c0cbe3",
+    "inverseText": "#292a37",
+    "claude": "#3fc6de",
+    "inactive": "#45475d",
+    "subtle": "#45475d",
+    "suggestion": "#ff7eb6",
+    "permission": "#be95ff",
+    "remember": "#be95ff",
+
+    "success": "#3fdaa4",
+    "error": "#ec6a88",
+    "warning": "#e1c697",
+    "merged": "#be95ff",
+
+    "promptBorder": "#45475d",
+    "planMode": "#3fc6de",
+    "autoAccept": "#3fdaa4",
+    "bashBorder": "#be95ff",
+    "ide": "#ff7eb6",
+    "fastMode": "#efb993",
+
+    "userMessageBackground": "#343545",
+    "userMessageBackgroundHover": "#3c3e51",
+    "messageActionsBackground": "#3c3e51",
+    "bashMessageBackgroundColor": "#343545",
+    "memoryBackgroundColor": "#343545",
+    "selectionBg": "#3c3e51",
+
+    "rate_limit_fill": "#3fc6de",
+    "rate_limit_empty": "#3c3e51",
+    "briefLabelYou": "#ff7eb6",
+    "briefLabelClaude": "#3fc6de",
+
+    "claudeShimmer": "#3fc6de",
+    "warningShimmer": "#e1c697",
+    "permissionShimmer": "#be95ff",
+    "promptBorderShimmer": "#50526b",
+    "inactiveShimmer": "#50526b",
+    "fastModeShimmer": "#efb993",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ec6a88",
+    "orange_FOR_SUBAGENTS_ONLY": "#efb993",
+    "yellow_FOR_SUBAGENTS_ONLY": "#e1c697",
+    "green_FOR_SUBAGENTS_ONLY": "#3fdaa4",
+    "cyan_FOR_SUBAGENTS_ONLY": "#ff7eb6",
+    "blue_FOR_SUBAGENTS_ONLY": "#3fc6de",
+    "purple_FOR_SUBAGENTS_ONLY": "#be95ff",
+    "pink_FOR_SUBAGENTS_ONLY": "#8b8da9",
+
+    "rainbow_red": "#ec6a88",
+    "rainbow_orange": "#efb993",
+    "rainbow_yellow": "#e1c697",
+    "rainbow_green": "#3fdaa4",
+    "rainbow_blue": "#ff7eb6",
+    "rainbow_indigo": "#3fc6de",
+    "rainbow_violet": "#be95ff",
+
+    "rainbow_red_shimmer": "#ec6a88",
+    "rainbow_orange_shimmer": "#efb993",
+    "rainbow_yellow_shimmer": "#e1c697",
+    "rainbow_green_shimmer": "#3fdaa4",
+    "rainbow_blue_shimmer": "#ff7eb6",
+    "rainbow_indigo_shimmer": "#3fc6de",
+    "rainbow_violet_shimmer": "#be95ff"
+  }
+}

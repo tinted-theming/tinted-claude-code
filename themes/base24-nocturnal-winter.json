@@ -1,0 +1,70 @@
+{
+  "name": "Nocturnal Winter",
+  "base": "dark",
+  "overrides": {
+    "text": "#dcdcdc",
+    "inverseText": "#0d0d17",
+    "claude": "#3081df",
+    "inactive": "#9e9e9e",
+    "subtle": "#9e9e9e",
+    "suggestion": "#09c87a",
+    "permission": "#fe2a6c",
+    "remember": "#fe2a6c",
+
+    "success": "#08cd7d",
+    "error": "#f12d52",
+    "warning": "#6095fe",
+    "merged": "#fe2a6c",
+
+    "promptBorder": "#9e9e9e",
+    "planMode": "#3081df",
+    "autoAccept": "#08cd7d",
+    "bashBorder": "#fe2a6c",
+    "ide": "#09c87a",
+    "fastMode": "#f5f079",
+
+    "userMessageBackground": "#4c4c4c",
+    "userMessageBackgroundHover": "#7f7f7f",
+    "messageActionsBackground": "#7f7f7f",
+    "bashMessageBackgroundColor": "#4c4c4c",
+    "memoryBackgroundColor": "#4c4c4c",
+    "selectionBg": "#7f7f7f",
+
+    "rate_limit_fill": "#3081df",
+    "rate_limit_empty": "#7f7f7f",
+    "briefLabelYou": "#09c87a",
+    "briefLabelClaude": "#3081df",
+
+    "claudeShimmer": "#3081df",
+    "warningShimmer": "#6095fe",
+    "permissionShimmer": "#fe2a6c",
+    "promptBorderShimmer": "#bdbdbd",
+    "inactiveShimmer": "#bdbdbd",
+    "fastModeShimmer": "#f5f079",
+
+    "red_FOR_SUBAGENTS_ONLY": "#f12d52",
+    "orange_FOR_SUBAGENTS_ONLY": "#f5f079",
+    "yellow_FOR_SUBAGENTS_ONLY": "#6095fe",
+    "green_FOR_SUBAGENTS_ONLY": "#08cd7d",
+    "cyan_FOR_SUBAGENTS_ONLY": "#09c87a",
+    "blue_FOR_SUBAGENTS_ONLY": "#3081df",
+    "purple_FOR_SUBAGENTS_ONLY": "#fe2a6c",
+    "pink_FOR_SUBAGENTS_ONLY": "#781629",
+
+    "rainbow_red": "#f12d52",
+    "rainbow_orange": "#f5f079",
+    "rainbow_yellow": "#6095fe",
+    "rainbow_green": "#08cd7d",
+    "rainbow_blue": "#09c87a",
+    "rainbow_indigo": "#3081df",
+    "rainbow_violet": "#fe2a6c",
+
+    "rainbow_red_shimmer": "#f12d52",
+    "rainbow_orange_shimmer": "#f5f079",
+    "rainbow_yellow_shimmer": "#6095fe",
+    "rainbow_green_shimmer": "#08cd7d",
+    "rainbow_blue_shimmer": "#09c87a",
+    "rainbow_indigo_shimmer": "#3081df",
+    "rainbow_violet_shimmer": "#fe2a6c"
+  }
+}

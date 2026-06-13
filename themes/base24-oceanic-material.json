@@ -1,0 +1,70 @@
+{
+  "name": "Oceanic Material",
+  "base": "dark",
+  "overrides": {
+    "text": "#989898",
+    "inverseText": "#1c262b",
+    "claude": "#1d80ef",
+    "inactive": "#818181",
+    "subtle": "#818181",
+    "suggestion": "#16aec9",
+    "permission": "#8800a0",
+    "remember": "#8800a0",
+
+    "success": "#3fa33f",
+    "error": "#ee2a29",
+    "warning": "#53a4f3",
+    "merged": "#8800a0",
+
+    "promptBorder": "#818181",
+    "planMode": "#1d80ef",
+    "autoAccept": "#3fa33f",
+    "bashBorder": "#8800a0",
+    "ide": "#16aec9",
+    "fastMode": "#fee92e",
+
+    "userMessageBackground": "#000000",
+    "userMessageBackgroundHover": "#767676",
+    "messageActionsBackground": "#767676",
+    "bashMessageBackgroundColor": "#000000",
+    "memoryBackgroundColor": "#000000",
+    "selectionBg": "#767676",
+
+    "rate_limit_fill": "#1d80ef",
+    "rate_limit_empty": "#767676",
+    "briefLabelYou": "#16aec9",
+    "briefLabelClaude": "#1d80ef",
+
+    "claudeShimmer": "#1d80ef",
+    "warningShimmer": "#53a4f3",
+    "permissionShimmer": "#8800a0",
+    "promptBorderShimmer": "#8d8d8d",
+    "inactiveShimmer": "#8d8d8d",
+    "fastModeShimmer": "#fee92e",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ee2a29",
+    "orange_FOR_SUBAGENTS_ONLY": "#fee92e",
+    "yellow_FOR_SUBAGENTS_ONLY": "#53a4f3",
+    "green_FOR_SUBAGENTS_ONLY": "#3fa33f",
+    "cyan_FOR_SUBAGENTS_ONLY": "#16aec9",
+    "blue_FOR_SUBAGENTS_ONLY": "#1d80ef",
+    "purple_FOR_SUBAGENTS_ONLY": "#8800a0",
+    "pink_FOR_SUBAGENTS_ONLY": "#771514",
+
+    "rainbow_red": "#ee2a29",
+    "rainbow_orange": "#fee92e",
+    "rainbow_yellow": "#53a4f3",
+    "rainbow_green": "#3fa33f",
+    "rainbow_blue": "#16aec9",
+    "rainbow_indigo": "#1d80ef",
+    "rainbow_violet": "#8800a0",
+
+    "rainbow_red_shimmer": "#ee2a29",
+    "rainbow_orange_shimmer": "#fee92e",
+    "rainbow_yellow_shimmer": "#53a4f3",
+    "rainbow_green_shimmer": "#3fa33f",
+    "rainbow_blue_shimmer": "#16aec9",
+    "rainbow_indigo_shimmer": "#1d80ef",
+    "rainbow_violet_shimmer": "#8800a0"
+  }
+}

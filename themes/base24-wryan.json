@@ -1,0 +1,70 @@
+{
+  "name": "Wryan",
+  "base": "dark",
+  "overrides": {
+    "text": "#768488",
+    "inverseText": "#101010",
+    "claude": "#395573",
+    "inactive": "#505456",
+    "subtle": "#505456",
+    "suggestion": "#31658c",
+    "permission": "#5e468c",
+    "remember": "#5e468c",
+
+    "success": "#287373",
+    "error": "#8c4665",
+    "warning": "#477ab3",
+    "merged": "#5e468c",
+
+    "promptBorder": "#505456",
+    "planMode": "#395573",
+    "autoAccept": "#287373",
+    "bashBorder": "#5e468c",
+    "ide": "#31658c",
+    "fastMode": "#7c7c99",
+
+    "userMessageBackground": "#333333",
+    "userMessageBackgroundHover": "#3d3d3d",
+    "messageActionsBackground": "#3d3d3d",
+    "bashMessageBackgroundColor": "#333333",
+    "memoryBackgroundColor": "#333333",
+    "selectionBg": "#3d3d3d",
+
+    "rate_limit_fill": "#395573",
+    "rate_limit_empty": "#3d3d3d",
+    "briefLabelYou": "#31658c",
+    "briefLabelClaude": "#395573",
+
+    "claudeShimmer": "#395573",
+    "warningShimmer": "#477ab3",
+    "permissionShimmer": "#5e468c",
+    "promptBorderShimmer": "#636c6f",
+    "inactiveShimmer": "#636c6f",
+    "fastModeShimmer": "#7c7c99",
+
+    "red_FOR_SUBAGENTS_ONLY": "#8c4665",
+    "orange_FOR_SUBAGENTS_ONLY": "#7c7c99",
+    "yellow_FOR_SUBAGENTS_ONLY": "#477ab3",
+    "green_FOR_SUBAGENTS_ONLY": "#287373",
+    "cyan_FOR_SUBAGENTS_ONLY": "#31658c",
+    "blue_FOR_SUBAGENTS_ONLY": "#395573",
+    "purple_FOR_SUBAGENTS_ONLY": "#5e468c",
+    "pink_FOR_SUBAGENTS_ONLY": "#462332",
+
+    "rainbow_red": "#8c4665",
+    "rainbow_orange": "#7c7c99",
+    "rainbow_yellow": "#477ab3",
+    "rainbow_green": "#287373",
+    "rainbow_blue": "#31658c",
+    "rainbow_indigo": "#395573",
+    "rainbow_violet": "#5e468c",
+
+    "rainbow_red_shimmer": "#8c4665",
+    "rainbow_orange_shimmer": "#7c7c99",
+    "rainbow_yellow_shimmer": "#477ab3",
+    "rainbow_green_shimmer": "#287373",
+    "rainbow_blue_shimmer": "#31658c",
+    "rainbow_indigo_shimmer": "#395573",
+    "rainbow_violet_shimmer": "#5e468c"
+  }
+}

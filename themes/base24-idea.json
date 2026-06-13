@@ -1,0 +1,70 @@
+{
+  "name": "Idea",
+  "base": "dark",
+  "overrides": {
+    "text": "#515151",
+    "inverseText": "#202020",
+    "claude": "#437ee6",
+    "inactive": "#c5c5c5",
+    "subtle": "#c5c5c5",
+    "suggestion": "#248886",
+    "permission": "#9d73b0",
+    "remember": "#9d73b0",
+
+    "success": "#98b61b",
+    "error": "#fb5255",
+    "warning": "#6c9bed",
+    "merged": "#9d73b0",
+
+    "promptBorder": "#c5c5c5",
+    "planMode": "#437ee6",
+    "autoAccept": "#98b61b",
+    "bashBorder": "#9d73b0",
+    "ide": "#248886",
+    "fastMode": "#ccb343",
+
+    "userMessageBackground": "#acacac",
+    "userMessageBackgroundHover": "#fffefe",
+    "messageActionsBackground": "#fffefe",
+    "bashMessageBackgroundColor": "#acacac",
+    "memoryBackgroundColor": "#acacac",
+    "selectionBg": "#fffefe",
+
+    "rate_limit_fill": "#437ee6",
+    "rate_limit_empty": "#fffefe",
+    "briefLabelYou": "#248886",
+    "briefLabelClaude": "#437ee6",
+
+    "claudeShimmer": "#437ee6",
+    "warningShimmer": "#6c9bed",
+    "permissionShimmer": "#9d73b0",
+    "promptBorderShimmer": "#8b8b8b",
+    "inactiveShimmer": "#8b8b8b",
+    "fastModeShimmer": "#ccb343",
+
+    "red_FOR_SUBAGENTS_ONLY": "#fb5255",
+    "orange_FOR_SUBAGENTS_ONLY": "#ccb343",
+    "yellow_FOR_SUBAGENTS_ONLY": "#6c9bed",
+    "green_FOR_SUBAGENTS_ONLY": "#98b61b",
+    "cyan_FOR_SUBAGENTS_ONLY": "#248886",
+    "blue_FOR_SUBAGENTS_ONLY": "#437ee6",
+    "purple_FOR_SUBAGENTS_ONLY": "#9d73b0",
+    "pink_FOR_SUBAGENTS_ONLY": "#7d292a",
+
+    "rainbow_red": "#fb5255",
+    "rainbow_orange": "#ccb343",
+    "rainbow_yellow": "#6c9bed",
+    "rainbow_green": "#98b61b",
+    "rainbow_blue": "#248886",
+    "rainbow_indigo": "#437ee6",
+    "rainbow_violet": "#9d73b0",
+
+    "rainbow_red_shimmer": "#fb5255",
+    "rainbow_orange_shimmer": "#ccb343",
+    "rainbow_yellow_shimmer": "#6c9bed",
+    "rainbow_green_shimmer": "#98b61b",
+    "rainbow_blue_shimmer": "#248886",
+    "rainbow_indigo_shimmer": "#437ee6",
+    "rainbow_violet_shimmer": "#9d73b0"
+  }
+}

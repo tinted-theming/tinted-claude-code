@@ -1,0 +1,70 @@
+{
+  "name": "Atelier Seaside Light",
+  "base": "light",
+  "overrides": {
+    "text": "#5e6e5e",
+    "inverseText": "#f4fbf4",
+    "claude": "#3d62f5",
+    "inactive": "#809980",
+    "subtle": "#809980",
+    "suggestion": "#1999b3",
+    "permission": "#ad2bee",
+    "remember": "#ad2bee",
+
+    "success": "#29a329",
+    "error": "#e6193c",
+    "warning": "#98981b",
+    "merged": "#ad2bee",
+
+    "promptBorder": "#809980",
+    "planMode": "#3d62f5",
+    "autoAccept": "#29a329",
+    "bashBorder": "#ad2bee",
+    "ide": "#1999b3",
+    "fastMode": "#87711d",
+
+    "userMessageBackground": "#cfe8cf",
+    "userMessageBackgroundHover": "#8ca68c",
+    "messageActionsBackground": "#8ca68c",
+    "bashMessageBackgroundColor": "#cfe8cf",
+    "memoryBackgroundColor": "#cfe8cf",
+    "selectionBg": "#8ca68c",
+
+    "rate_limit_fill": "#3d62f5",
+    "rate_limit_empty": "#8ca68c",
+    "briefLabelYou": "#1999b3",
+    "briefLabelClaude": "#3d62f5",
+
+    "claudeShimmer": "#3d62f5",
+    "warningShimmer": "#98981b",
+    "permissionShimmer": "#ad2bee",
+    "promptBorderShimmer": "#687d68",
+    "inactiveShimmer": "#687d68",
+    "fastModeShimmer": "#87711d",
+
+    "red_FOR_SUBAGENTS_ONLY": "#e6193c",
+    "orange_FOR_SUBAGENTS_ONLY": "#87711d",
+    "yellow_FOR_SUBAGENTS_ONLY": "#98981b",
+    "green_FOR_SUBAGENTS_ONLY": "#29a329",
+    "cyan_FOR_SUBAGENTS_ONLY": "#1999b3",
+    "blue_FOR_SUBAGENTS_ONLY": "#3d62f5",
+    "purple_FOR_SUBAGENTS_ONLY": "#ad2bee",
+    "pink_FOR_SUBAGENTS_ONLY": "#e619c3",
+
+    "rainbow_red": "#e6193c",
+    "rainbow_orange": "#87711d",
+    "rainbow_yellow": "#98981b",
+    "rainbow_green": "#29a329",
+    "rainbow_blue": "#1999b3",
+    "rainbow_indigo": "#3d62f5",
+    "rainbow_violet": "#ad2bee",
+
+    "rainbow_red_shimmer": "#e6193c",
+    "rainbow_orange_shimmer": "#87711d",
+    "rainbow_yellow_shimmer": "#98981b",
+    "rainbow_green_shimmer": "#29a329",
+    "rainbow_blue_shimmer": "#1999b3",
+    "rainbow_indigo_shimmer": "#3d62f5",
+    "rainbow_violet_shimmer": "#ad2bee"
+  }
+}

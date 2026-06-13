@@ -1,0 +1,70 @@
+{
+  "name": "Nord",
+  "base": "dark",
+  "overrides": {
+    "text": "#e5e9f0",
+    "inverseText": "#2e3440",
+    "claude": "#88c0d0",
+    "inactive": "#616e88",
+    "subtle": "#3b4252",
+    "suggestion": "#88c0d0",
+    "permission": "#b48ead",
+    "remember": "#b48ead",
+
+    "success": "#a3be8c",
+    "error": "#bf616a",
+    "warning": "#ebcb8b",
+    "merged": "#b48ead",
+
+    "promptBorder": "#3b4252",
+    "planMode": "#81a1c1",
+    "autoAccept": "#a3be8c",
+    "bashBorder": "#b48ead",
+    "ide": "#ebcb8b",
+    "fastMode": "#d08770",
+
+    "userMessageBackground": "#14171d",
+    "userMessageBackgroundHover": "#465165",
+    "messageActionsBackground": "#465165",
+    "bashMessageBackgroundColor": "#14171d",
+    "memoryBackgroundColor": "#14171d",
+    "selectionBg": "#465165",
+
+    "rate_limit_fill": "#88c0d0",
+    "rate_limit_empty": "#14171d",
+    "briefLabelYou": "#88c0d0",
+    "briefLabelClaude": "#88c0d0",
+
+    "claudeShimmer": "#88c0d0",
+    "warningShimmer": "#f4e2bf",
+    "permissionShimmer": "#ccb3c8",
+    "promptBorderShimmer": "#808da7",
+    "inactiveShimmer": "#808da7",
+    "fastModeShimmer": "#dfae9e",
+
+    "red_FOR_SUBAGENTS_ONLY": "#bf616a",
+    "orange_FOR_SUBAGENTS_ONLY": "#d08770",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ebcb8b",
+    "green_FOR_SUBAGENTS_ONLY": "#a3be8c",
+    "cyan_FOR_SUBAGENTS_ONLY": "#88c0d0",
+    "blue_FOR_SUBAGENTS_ONLY": "#81a1c1",
+    "purple_FOR_SUBAGENTS_ONLY": "#b48ead",
+    "pink_FOR_SUBAGENTS_ONLY": "#ccb3c8",
+
+    "rainbow_red": "#bf616a",
+    "rainbow_orange": "#d08770",
+    "rainbow_yellow": "#ebcb8b",
+    "rainbow_green": "#a3be8c",
+    "rainbow_blue": "#88c0d0",
+    "rainbow_indigo": "#81a1c1",
+    "rainbow_violet": "#b48ead",
+
+    "rainbow_red_shimmer": "#d18d93",
+    "rainbow_orange_shimmer": "#dfae9e",
+    "rainbow_yellow_shimmer": "#f4e2bf",
+    "rainbow_green_shimmer": "#c2d4b3",
+    "rainbow_blue_shimmer": "#b4d7e1",
+    "rainbow_indigo_shimmer": "#aac0d5",
+    "rainbow_violet_shimmer": "#ccb3c8"
+  }
+}

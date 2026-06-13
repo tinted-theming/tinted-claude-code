@@ -1,0 +1,70 @@
+{
+  "name": "Vesper",
+  "base": "dark",
+  "overrides": {
+    "text": "#b7b7b7",
+    "inverseText": "#101010",
+    "claude": "#8eaaaa",
+    "inactive": "#333333",
+    "subtle": "#333333",
+    "suggestion": "#60a592",
+    "permission": "#d69094",
+    "remember": "#d69094",
+
+    "success": "#5f8787",
+    "error": "#de6e6e",
+    "warning": "#ffc799",
+    "merged": "#d69094",
+
+    "promptBorder": "#333333",
+    "planMode": "#8eaaaa",
+    "autoAccept": "#5f8787",
+    "bashBorder": "#d69094",
+    "ide": "#60a592",
+    "fastMode": "#dab083",
+
+    "userMessageBackground": "#232323",
+    "userMessageBackgroundHover": "#222222",
+    "messageActionsBackground": "#222222",
+    "bashMessageBackgroundColor": "#232323",
+    "memoryBackgroundColor": "#232323",
+    "selectionBg": "#222222",
+
+    "rate_limit_fill": "#8eaaaa",
+    "rate_limit_empty": "#222222",
+    "briefLabelYou": "#60a592",
+    "briefLabelClaude": "#8eaaaa",
+
+    "claudeShimmer": "#8eaaaa",
+    "warningShimmer": "#ffc799",
+    "permissionShimmer": "#d69094",
+    "promptBorderShimmer": "#999999",
+    "inactiveShimmer": "#999999",
+    "fastModeShimmer": "#dab083",
+
+    "red_FOR_SUBAGENTS_ONLY": "#de6e6e",
+    "orange_FOR_SUBAGENTS_ONLY": "#dab083",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffc799",
+    "green_FOR_SUBAGENTS_ONLY": "#5f8787",
+    "cyan_FOR_SUBAGENTS_ONLY": "#60a592",
+    "blue_FOR_SUBAGENTS_ONLY": "#8eaaaa",
+    "purple_FOR_SUBAGENTS_ONLY": "#d69094",
+    "pink_FOR_SUBAGENTS_ONLY": "#876c4f",
+
+    "rainbow_red": "#de6e6e",
+    "rainbow_orange": "#dab083",
+    "rainbow_yellow": "#ffc799",
+    "rainbow_green": "#5f8787",
+    "rainbow_blue": "#60a592",
+    "rainbow_indigo": "#8eaaaa",
+    "rainbow_violet": "#d69094",
+
+    "rainbow_red_shimmer": "#de6e6e",
+    "rainbow_orange_shimmer": "#dab083",
+    "rainbow_yellow_shimmer": "#ffc799",
+    "rainbow_green_shimmer": "#5f8787",
+    "rainbow_blue_shimmer": "#60a592",
+    "rainbow_indigo_shimmer": "#8eaaaa",
+    "rainbow_violet_shimmer": "#d69094"
+  }
+}

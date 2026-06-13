@@ -1,0 +1,70 @@
+{
+  "name": "Windows 10",
+  "base": "dark",
+  "overrides": {
+    "text": "#cccccc",
+    "inverseText": "#0c0c0c",
+    "claude": "#3b78ff",
+    "inactive": "#767676",
+    "subtle": "#767676",
+    "suggestion": "#61d6d6",
+    "permission": "#b4009e",
+    "remember": "#b4009e",
+
+    "success": "#16c60c",
+    "error": "#e74856",
+    "warning": "#f9f1a5",
+    "merged": "#b4009e",
+
+    "promptBorder": "#767676",
+    "planMode": "#3b78ff",
+    "autoAccept": "#16c60c",
+    "bashBorder": "#b4009e",
+    "ide": "#61d6d6",
+    "fastMode": "#c19c00",
+
+    "userMessageBackground": "#2f2f2f",
+    "userMessageBackgroundHover": "#535353",
+    "messageActionsBackground": "#535353",
+    "bashMessageBackgroundColor": "#2f2f2f",
+    "memoryBackgroundColor": "#2f2f2f",
+    "selectionBg": "#535353",
+
+    "rate_limit_fill": "#3b78ff",
+    "rate_limit_empty": "#535353",
+    "briefLabelYou": "#61d6d6",
+    "briefLabelClaude": "#3b78ff",
+
+    "claudeShimmer": "#3b78ff",
+    "warningShimmer": "#f9f1a5",
+    "permissionShimmer": "#b4009e",
+    "promptBorderShimmer": "#b9b9b9",
+    "inactiveShimmer": "#b9b9b9",
+    "fastModeShimmer": "#c19c00",
+
+    "red_FOR_SUBAGENTS_ONLY": "#e74856",
+    "orange_FOR_SUBAGENTS_ONLY": "#c19c00",
+    "yellow_FOR_SUBAGENTS_ONLY": "#f9f1a5",
+    "green_FOR_SUBAGENTS_ONLY": "#16c60c",
+    "cyan_FOR_SUBAGENTS_ONLY": "#61d6d6",
+    "blue_FOR_SUBAGENTS_ONLY": "#3b78ff",
+    "purple_FOR_SUBAGENTS_ONLY": "#b4009e",
+    "pink_FOR_SUBAGENTS_ONLY": "#13a10e",
+
+    "rainbow_red": "#e74856",
+    "rainbow_orange": "#c19c00",
+    "rainbow_yellow": "#f9f1a5",
+    "rainbow_green": "#16c60c",
+    "rainbow_blue": "#61d6d6",
+    "rainbow_indigo": "#3b78ff",
+    "rainbow_violet": "#b4009e",
+
+    "rainbow_red_shimmer": "#e74856",
+    "rainbow_orange_shimmer": "#c19c00",
+    "rainbow_yellow_shimmer": "#f9f1a5",
+    "rainbow_green_shimmer": "#16c60c",
+    "rainbow_blue_shimmer": "#61d6d6",
+    "rainbow_indigo_shimmer": "#3b78ff",
+    "rainbow_violet_shimmer": "#b4009e"
+  }
+}

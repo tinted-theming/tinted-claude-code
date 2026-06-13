@@ -1,0 +1,70 @@
+{
+  "name": "Tomorrow Night Eighties",
+  "base": "dark",
+  "overrides": {
+    "text": "#cccccc",
+    "inverseText": "#2d2d2d",
+    "claude": "#6699cc",
+    "inactive": "#999999",
+    "subtle": "#999999",
+    "suggestion": "#66cccc",
+    "permission": "#cc99cc",
+    "remember": "#cc99cc",
+
+    "success": "#99cc99",
+    "error": "#f2777a",
+    "warning": "#ffcc66",
+    "merged": "#cc99cc",
+
+    "promptBorder": "#999999",
+    "planMode": "#6699cc",
+    "autoAccept": "#99cc99",
+    "bashBorder": "#cc99cc",
+    "ide": "#66cccc",
+    "fastMode": "#f99157",
+
+    "userMessageBackground": "#393939",
+    "userMessageBackgroundHover": "#515151",
+    "messageActionsBackground": "#515151",
+    "bashMessageBackgroundColor": "#393939",
+    "memoryBackgroundColor": "#393939",
+    "selectionBg": "#515151",
+
+    "rate_limit_fill": "#6699cc",
+    "rate_limit_empty": "#515151",
+    "briefLabelYou": "#66cccc",
+    "briefLabelClaude": "#6699cc",
+
+    "claudeShimmer": "#6699cc",
+    "warningShimmer": "#ffcc66",
+    "permissionShimmer": "#cc99cc",
+    "promptBorderShimmer": "#b4b7b4",
+    "inactiveShimmer": "#b4b7b4",
+    "fastModeShimmer": "#f99157",
+
+    "red_FOR_SUBAGENTS_ONLY": "#f2777a",
+    "orange_FOR_SUBAGENTS_ONLY": "#f99157",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffcc66",
+    "green_FOR_SUBAGENTS_ONLY": "#99cc99",
+    "cyan_FOR_SUBAGENTS_ONLY": "#66cccc",
+    "blue_FOR_SUBAGENTS_ONLY": "#6699cc",
+    "purple_FOR_SUBAGENTS_ONLY": "#cc99cc",
+    "pink_FOR_SUBAGENTS_ONLY": "#a3685a",
+
+    "rainbow_red": "#f2777a",
+    "rainbow_orange": "#f99157",
+    "rainbow_yellow": "#ffcc66",
+    "rainbow_green": "#99cc99",
+    "rainbow_blue": "#66cccc",
+    "rainbow_indigo": "#6699cc",
+    "rainbow_violet": "#cc99cc",
+
+    "rainbow_red_shimmer": "#f2777a",
+    "rainbow_orange_shimmer": "#f99157",
+    "rainbow_yellow_shimmer": "#ffcc66",
+    "rainbow_green_shimmer": "#99cc99",
+    "rainbow_blue_shimmer": "#66cccc",
+    "rainbow_indigo_shimmer": "#6699cc",
+    "rainbow_violet_shimmer": "#cc99cc"
+  }
+}

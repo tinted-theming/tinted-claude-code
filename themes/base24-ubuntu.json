@@ -1,0 +1,70 @@
+{
+  "name": "Ubuntu",
+  "base": "dark",
+  "overrides": {
+    "text": "#b3b7b0",
+    "inverseText": "#300a24",
+    "claude": "#3465a4",
+    "inactive": "#747772",
+    "subtle": "#747772",
+    "suggestion": "#06989a",
+    "permission": "#75507b",
+    "remember": "#75507b",
+
+    "success": "#4e9a06",
+    "error": "#cc0000",
+    "warning": "#729fcf",
+    "merged": "#75507b",
+
+    "promptBorder": "#747772",
+    "planMode": "#3465a4",
+    "autoAccept": "#4e9a06",
+    "bashBorder": "#75507b",
+    "ide": "#06989a",
+    "fastMode": "#c4a000",
+
+    "userMessageBackground": "#2e3436",
+    "userMessageBackgroundHover": "#555753",
+    "messageActionsBackground": "#555753",
+    "bashMessageBackgroundColor": "#2e3436",
+    "memoryBackgroundColor": "#2e3436",
+    "selectionBg": "#555753",
+
+    "rate_limit_fill": "#3465a4",
+    "rate_limit_empty": "#555753",
+    "briefLabelYou": "#06989a",
+    "briefLabelClaude": "#3465a4",
+
+    "claudeShimmer": "#3465a4",
+    "warningShimmer": "#729fcf",
+    "permissionShimmer": "#75507b",
+    "promptBorderShimmer": "#949791",
+    "inactiveShimmer": "#949791",
+    "fastModeShimmer": "#c4a000",
+
+    "red_FOR_SUBAGENTS_ONLY": "#cc0000",
+    "orange_FOR_SUBAGENTS_ONLY": "#c4a000",
+    "yellow_FOR_SUBAGENTS_ONLY": "#729fcf",
+    "green_FOR_SUBAGENTS_ONLY": "#4e9a06",
+    "cyan_FOR_SUBAGENTS_ONLY": "#06989a",
+    "blue_FOR_SUBAGENTS_ONLY": "#3465a4",
+    "purple_FOR_SUBAGENTS_ONLY": "#75507b",
+    "pink_FOR_SUBAGENTS_ONLY": "#660000",
+
+    "rainbow_red": "#cc0000",
+    "rainbow_orange": "#c4a000",
+    "rainbow_yellow": "#729fcf",
+    "rainbow_green": "#4e9a06",
+    "rainbow_blue": "#06989a",
+    "rainbow_indigo": "#3465a4",
+    "rainbow_violet": "#75507b",
+
+    "rainbow_red_shimmer": "#cc0000",
+    "rainbow_orange_shimmer": "#c4a000",
+    "rainbow_yellow_shimmer": "#729fcf",
+    "rainbow_green_shimmer": "#4e9a06",
+    "rainbow_blue_shimmer": "#06989a",
+    "rainbow_indigo_shimmer": "#3465a4",
+    "rainbow_violet_shimmer": "#75507b"
+  }
+}

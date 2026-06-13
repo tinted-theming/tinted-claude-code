@@ -1,0 +1,70 @@
+{
+  "name": "pandora",
+  "base": "dark",
+  "overrides": {
+    "text": "#f15c99",
+    "inverseText": "#131213",
+    "claude": "#008080",
+    "inactive": "#ffbee3",
+    "subtle": "#ffbee3",
+    "suggestion": "#714ca6",
+    "permission": "#a24030",
+    "remember": "#a24030",
+
+    "success": "#9ddf69",
+    "error": "#b00b69",
+    "warning": "#ffcc00",
+    "merged": "#a24030",
+
+    "promptBorder": "#ffbee3",
+    "planMode": "#008080",
+    "autoAccept": "#9ddf69",
+    "bashBorder": "#a24030",
+    "ide": "#714ca6",
+    "fastMode": "#ff9153",
+
+    "userMessageBackground": "#2f1823",
+    "userMessageBackgroundHover": "#472234",
+    "messageActionsBackground": "#472234",
+    "bashMessageBackgroundColor": "#2f1823",
+    "memoryBackgroundColor": "#2f1823",
+    "selectionBg": "#472234",
+
+    "rate_limit_fill": "#008080",
+    "rate_limit_empty": "#472234",
+    "briefLabelYou": "#714ca6",
+    "briefLabelClaude": "#008080",
+
+    "claudeShimmer": "#008080",
+    "warningShimmer": "#ffcc00",
+    "permissionShimmer": "#a24030",
+    "promptBorderShimmer": "#9b2a46",
+    "inactiveShimmer": "#9b2a46",
+    "fastModeShimmer": "#ff9153",
+
+    "red_FOR_SUBAGENTS_ONLY": "#b00b69",
+    "orange_FOR_SUBAGENTS_ONLY": "#ff9153",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffcc00",
+    "green_FOR_SUBAGENTS_ONLY": "#9ddf69",
+    "cyan_FOR_SUBAGENTS_ONLY": "#714ca6",
+    "blue_FOR_SUBAGENTS_ONLY": "#008080",
+    "purple_FOR_SUBAGENTS_ONLY": "#a24030",
+    "pink_FOR_SUBAGENTS_ONLY": "#a24030",
+
+    "rainbow_red": "#b00b69",
+    "rainbow_orange": "#ff9153",
+    "rainbow_yellow": "#ffcc00",
+    "rainbow_green": "#9ddf69",
+    "rainbow_blue": "#714ca6",
+    "rainbow_indigo": "#008080",
+    "rainbow_violet": "#a24030",
+
+    "rainbow_red_shimmer": "#b00b69",
+    "rainbow_orange_shimmer": "#ff9153",
+    "rainbow_yellow_shimmer": "#ffcc00",
+    "rainbow_green_shimmer": "#9ddf69",
+    "rainbow_blue_shimmer": "#714ca6",
+    "rainbow_indigo_shimmer": "#008080",
+    "rainbow_violet_shimmer": "#a24030"
+  }
+}

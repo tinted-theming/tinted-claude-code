@@ -1,0 +1,70 @@
+{
+  "name": "Homebrew",
+  "base": "dark",
+  "overrides": {
+    "text": "#a8a8a8",
+    "inverseText": "#000000",
+    "claude": "#0000b2",
+    "inactive": "#7c7c7c",
+    "subtle": "#7c7c7c",
+    "suggestion": "#00a6b2",
+    "permission": "#b200b2",
+    "remember": "#b200b2",
+
+    "success": "#00a600",
+    "error": "#990000",
+    "warning": "#0000ff",
+    "merged": "#b200b2",
+
+    "promptBorder": "#7c7c7c",
+    "planMode": "#0000b2",
+    "autoAccept": "#00a600",
+    "bashBorder": "#b200b2",
+    "ide": "#00a6b2",
+    "fastMode": "#999900",
+
+    "userMessageBackground": "#000000",
+    "userMessageBackgroundHover": "#666666",
+    "messageActionsBackground": "#666666",
+    "bashMessageBackgroundColor": "#000000",
+    "memoryBackgroundColor": "#000000",
+    "selectionBg": "#666666",
+
+    "rate_limit_fill": "#0000b2",
+    "rate_limit_empty": "#666666",
+    "briefLabelYou": "#00a6b2",
+    "briefLabelClaude": "#0000b2",
+
+    "claudeShimmer": "#0000b2",
+    "warningShimmer": "#0000ff",
+    "permissionShimmer": "#b200b2",
+    "promptBorderShimmer": "#929292",
+    "inactiveShimmer": "#929292",
+    "fastModeShimmer": "#999900",
+
+    "red_FOR_SUBAGENTS_ONLY": "#990000",
+    "orange_FOR_SUBAGENTS_ONLY": "#999900",
+    "yellow_FOR_SUBAGENTS_ONLY": "#0000ff",
+    "green_FOR_SUBAGENTS_ONLY": "#00a600",
+    "cyan_FOR_SUBAGENTS_ONLY": "#00a6b2",
+    "blue_FOR_SUBAGENTS_ONLY": "#0000b2",
+    "purple_FOR_SUBAGENTS_ONLY": "#b200b2",
+    "pink_FOR_SUBAGENTS_ONLY": "#4c0000",
+
+    "rainbow_red": "#990000",
+    "rainbow_orange": "#999900",
+    "rainbow_yellow": "#0000ff",
+    "rainbow_green": "#00a600",
+    "rainbow_blue": "#00a6b2",
+    "rainbow_indigo": "#0000b2",
+    "rainbow_violet": "#b200b2",
+
+    "rainbow_red_shimmer": "#990000",
+    "rainbow_orange_shimmer": "#999900",
+    "rainbow_yellow_shimmer": "#0000ff",
+    "rainbow_green_shimmer": "#00a600",
+    "rainbow_blue_shimmer": "#00a6b2",
+    "rainbow_indigo_shimmer": "#0000b2",
+    "rainbow_violet_shimmer": "#b200b2"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Summerfruit Light",
+  "base": "light",
+  "overrides": {
+    "text": "#101010",
+    "inverseText": "#ffffff",
+    "claude": "#3777e6",
+    "inactive": "#b0b0b0",
+    "subtle": "#b0b0b0",
+    "suggestion": "#1faaaa",
+    "permission": "#ad00a1",
+    "remember": "#ad00a1",
+
+    "success": "#00c918",
+    "error": "#ff0086",
+    "warning": "#aba800",
+    "merged": "#ad00a1",
+
+    "promptBorder": "#b0b0b0",
+    "planMode": "#3777e6",
+    "autoAccept": "#00c918",
+    "bashBorder": "#ad00a1",
+    "ide": "#1faaaa",
+    "fastMode": "#fd8900",
+
+    "userMessageBackground": "#e0e0e0",
+    "userMessageBackgroundHover": "#d0d0d0",
+    "messageActionsBackground": "#d0d0d0",
+    "bashMessageBackgroundColor": "#e0e0e0",
+    "memoryBackgroundColor": "#e0e0e0",
+    "selectionBg": "#d0d0d0",
+
+    "rate_limit_fill": "#3777e6",
+    "rate_limit_empty": "#d0d0d0",
+    "briefLabelYou": "#1faaaa",
+    "briefLabelClaude": "#3777e6",
+
+    "claudeShimmer": "#3777e6",
+    "warningShimmer": "#aba800",
+    "permissionShimmer": "#ad00a1",
+    "promptBorderShimmer": "#000000",
+    "inactiveShimmer": "#000000",
+    "fastModeShimmer": "#fd8900",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff0086",
+    "orange_FOR_SUBAGENTS_ONLY": "#fd8900",
+    "yellow_FOR_SUBAGENTS_ONLY": "#aba800",
+    "green_FOR_SUBAGENTS_ONLY": "#00c918",
+    "cyan_FOR_SUBAGENTS_ONLY": "#1faaaa",
+    "blue_FOR_SUBAGENTS_ONLY": "#3777e6",
+    "purple_FOR_SUBAGENTS_ONLY": "#ad00a1",
+    "pink_FOR_SUBAGENTS_ONLY": "#cc6633",
+
+    "rainbow_red": "#ff0086",
+    "rainbow_orange": "#fd8900",
+    "rainbow_yellow": "#aba800",
+    "rainbow_green": "#00c918",
+    "rainbow_blue": "#1faaaa",
+    "rainbow_indigo": "#3777e6",
+    "rainbow_violet": "#ad00a1",
+
+    "rainbow_red_shimmer": "#ff0086",
+    "rainbow_orange_shimmer": "#fd8900",
+    "rainbow_yellow_shimmer": "#aba800",
+    "rainbow_green_shimmer": "#00c918",
+    "rainbow_blue_shimmer": "#1faaaa",
+    "rainbow_indigo_shimmer": "#3777e6",
+    "rainbow_violet_shimmer": "#ad00a1"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Primer Light",
+  "base": "light",
+  "overrides": {
+    "text": "#2f363d",
+    "inverseText": "#fafbfc",
+    "claude": "#0366d6",
+    "inactive": "#959da5",
+    "subtle": "#959da5",
+    "suggestion": "#79b8ff",
+    "permission": "#ea4aaa",
+    "remember": "#ea4aaa",
+
+    "success": "#28a745",
+    "error": "#d73a49",
+    "warning": "#ffd33d",
+    "merged": "#ea4aaa",
+
+    "promptBorder": "#959da5",
+    "planMode": "#0366d6",
+    "autoAccept": "#28a745",
+    "bashBorder": "#ea4aaa",
+    "ide": "#79b8ff",
+    "fastMode": "#f66a0a",
+
+    "userMessageBackground": "#e1e4e8",
+    "userMessageBackgroundHover": "#d1d5da",
+    "messageActionsBackground": "#d1d5da",
+    "bashMessageBackgroundColor": "#e1e4e8",
+    "memoryBackgroundColor": "#e1e4e8",
+    "selectionBg": "#d1d5da",
+
+    "rate_limit_fill": "#0366d6",
+    "rate_limit_empty": "#d1d5da",
+    "briefLabelYou": "#79b8ff",
+    "briefLabelClaude": "#0366d6",
+
+    "claudeShimmer": "#0366d6",
+    "warningShimmer": "#ffd33d",
+    "permissionShimmer": "#ea4aaa",
+    "promptBorderShimmer": "#444d56",
+    "inactiveShimmer": "#444d56",
+    "fastModeShimmer": "#f66a0a",
+
+    "red_FOR_SUBAGENTS_ONLY": "#d73a49",
+    "orange_FOR_SUBAGENTS_ONLY": "#f66a0a",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffd33d",
+    "green_FOR_SUBAGENTS_ONLY": "#28a745",
+    "cyan_FOR_SUBAGENTS_ONLY": "#79b8ff",
+    "blue_FOR_SUBAGENTS_ONLY": "#0366d6",
+    "purple_FOR_SUBAGENTS_ONLY": "#ea4aaa",
+    "pink_FOR_SUBAGENTS_ONLY": "#a04100",
+
+    "rainbow_red": "#d73a49",
+    "rainbow_orange": "#f66a0a",
+    "rainbow_yellow": "#ffd33d",
+    "rainbow_green": "#28a745",
+    "rainbow_blue": "#79b8ff",
+    "rainbow_indigo": "#0366d6",
+    "rainbow_violet": "#ea4aaa",
+
+    "rainbow_red_shimmer": "#d73a49",
+    "rainbow_orange_shimmer": "#f66a0a",
+    "rainbow_yellow_shimmer": "#ffd33d",
+    "rainbow_green_shimmer": "#28a745",
+    "rainbow_blue_shimmer": "#79b8ff",
+    "rainbow_indigo_shimmer": "#0366d6",
+    "rainbow_violet_shimmer": "#ea4aaa"
+  }
+}

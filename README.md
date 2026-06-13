@@ -69,7 +69,7 @@ Add an item to your Tinty `config.toml`
 ```toml
 [[items]]
 name = "tinted-claude-code"
-path = "https://github.com/bezhermoso/tinted-claude-code"
+path = "https://github.com/tinted-theming/tinted-claude-code"
 themes-dir = "scripts"
 theme-file-extension = ".js"
 supported-systems = ["base16", "base24", "tinted8"]
@@ -81,7 +81,7 @@ hook = "mkdir -p \"$HOME/.claude/themes\" && node \"$TINTY_THEME_FILE_PATH\" > \
 ```toml
 [[items]]
 name = "tinted-claude-code"
-path = "https://github.com/bezhermoso/tinted-claude-code"
+path = "https://github.com/tinted-theming/tinted-claude-code"
 themes-dir = "themes"
 theme-file-extension = ".json"
 supported-systems = ["base16", "base24", "tinted8"]

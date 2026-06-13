@@ -7,12 +7,27 @@
 # The output filename stem (e.g. `base16-ayu-dark`) is the scheme id that Tinty
 # matches against when it applies a theme.
 
+# Static JSON output: declarative, human-readable, copy-and-go for manual
+# installs. Shimmer tokens reuse their paired color (no color math here).
 base16:
   filename: themes/{{ scheme-system }}-{{ scheme-slug }}.json
   supported-systems: [base16, base24]
 
 tinted8:
   filename: themes/{{ scheme.system }}-{{ scheme.slug }}.json
+  supported-systems: [tinted8]
+  supports:
+    tinted8-builder: ~0.2.0
+    tinted8-styling: ~0.2.0
+
+# Executable Node output: `node FILE > dest.json`. Computes true shimmer
+# variants and derives dark/light from measured CIE L*. Requires Node.
+base16.js:
+  filename: scripts/{{ scheme-system }}-{{ scheme-slug }}.js
+  supported-systems: [base16, base24]
+
+tinted8.js:
+  filename: scripts/{{ scheme.system }}-{{ scheme.slug }}.js
   supported-systems: [tinted8]
   supports:
     tinted8-builder: ~0.2.0

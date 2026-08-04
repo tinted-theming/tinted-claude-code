@@ -1,0 +1,70 @@
+{
+  "name": "Github Dark Dimmed",
+  "base": "dark",
+  "overrides": {
+    "text": "#adbac7",
+    "inverseText": "#22272e",
+    "claude": "#dcbdfb",
+    "inactive": "#636e7b",
+    "subtle": "#636e7b",
+    "suggestion": "#8ddb8c",
+    "permission": "#f47067",
+    "remember": "#f47067",
+
+    "success": "#96d0ff",
+    "error": "#f69d50",
+    "warning": "#ae7c14",
+    "merged": "#f47067",
+
+    "promptBorder": "#636e7b",
+    "planMode": "#dcbdfb",
+    "autoAccept": "#96d0ff",
+    "bashBorder": "#f47067",
+    "ide": "#8ddb8c",
+    "fastMode": "#6cb6ff",
+
+    "userMessageBackground": "#2d333b",
+    "userMessageBackgroundHover": "#545d68",
+    "messageActionsBackground": "#545d68",
+    "bashMessageBackgroundColor": "#2d333b",
+    "memoryBackgroundColor": "#2d333b",
+    "selectionBg": "#545d68",
+
+    "rate_limit_fill": "#dcbdfb",
+    "rate_limit_empty": "#545d68",
+    "briefLabelYou": "#8ddb8c",
+    "briefLabelClaude": "#dcbdfb",
+
+    "claudeShimmer": "#dcbdfb",
+    "warningShimmer": "#ae7c14",
+    "permissionShimmer": "#f47067",
+    "promptBorderShimmer": "#768390",
+    "inactiveShimmer": "#768390",
+    "fastModeShimmer": "#6cb6ff",
+
+    "red_FOR_SUBAGENTS_ONLY": "#f69d50",
+    "orange_FOR_SUBAGENTS_ONLY": "#6cb6ff",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ae7c14",
+    "green_FOR_SUBAGENTS_ONLY": "#96d0ff",
+    "cyan_FOR_SUBAGENTS_ONLY": "#8ddb8c",
+    "blue_FOR_SUBAGENTS_ONLY": "#dcbdfb",
+    "purple_FOR_SUBAGENTS_ONLY": "#f47067",
+    "pink_FOR_SUBAGENTS_ONLY": "#ff938a",
+
+    "rainbow_red": "#f69d50",
+    "rainbow_orange": "#6cb6ff",
+    "rainbow_yellow": "#ae7c14",
+    "rainbow_green": "#96d0ff",
+    "rainbow_blue": "#8ddb8c",
+    "rainbow_indigo": "#dcbdfb",
+    "rainbow_violet": "#f47067",
+
+    "rainbow_red_shimmer": "#f69d50",
+    "rainbow_orange_shimmer": "#6cb6ff",
+    "rainbow_yellow_shimmer": "#ae7c14",
+    "rainbow_green_shimmer": "#96d0ff",
+    "rainbow_blue_shimmer": "#8ddb8c",
+    "rainbow_indigo_shimmer": "#dcbdfb",
+    "rainbow_violet_shimmer": "#f47067"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Github",
+  "name": "Github Light Colorblind",
   "base": "light",
   "overrides": {
     "text": "#424a53",
@@ -7,20 +7,20 @@
     "claude": "#8250df",
     "inactive": "#8c959f",
     "subtle": "#8c959f",
-    "suggestion": "#116329",
-    "permission": "#cf222e",
-    "remember": "#cf222e",
+    "suggestion": "#0550ae",
+    "permission": "#b35900",
+    "remember": "#b35900",
 
     "success": "#0a3069",
-    "error": "#953800",
+    "error": "#8a4600",
     "warning": "#bf8700",
-    "merged": "#cf222e",
+    "merged": "#b35900",
 
     "promptBorder": "#8c959f",
     "planMode": "#8250df",
     "autoAccept": "#0a3069",
-    "bashBorder": "#cf222e",
-    "ide": "#116329",
+    "bashBorder": "#b35900",
+    "ide": "#0550ae",
     "fastMode": "#0550ae",
 
     "userMessageBackground": "#f6f8fa",
@@ -32,39 +32,39 @@
 
     "rate_limit_fill": "#8250df",
     "rate_limit_empty": "#afb8c1",
-    "briefLabelYou": "#116329",
+    "briefLabelYou": "#0550ae",
     "briefLabelClaude": "#8250df",
 
     "claudeShimmer": "#8250df",
     "warningShimmer": "#bf8700",
-    "permissionShimmer": "#cf222e",
+    "permissionShimmer": "#b35900",
     "promptBorderShimmer": "#6e7781",
     "inactiveShimmer": "#6e7781",
     "fastModeShimmer": "#0550ae",
 
-    "red_FOR_SUBAGENTS_ONLY": "#953800",
+    "red_FOR_SUBAGENTS_ONLY": "#8a4600",
     "orange_FOR_SUBAGENTS_ONLY": "#0550ae",
     "yellow_FOR_SUBAGENTS_ONLY": "#bf8700",
     "green_FOR_SUBAGENTS_ONLY": "#0a3069",
-    "cyan_FOR_SUBAGENTS_ONLY": "#116329",
+    "cyan_FOR_SUBAGENTS_ONLY": "#0550ae",
     "blue_FOR_SUBAGENTS_ONLY": "#8250df",
-    "purple_FOR_SUBAGENTS_ONLY": "#cf222e",
-    "pink_FOR_SUBAGENTS_ONLY": "#82071e",
+    "purple_FOR_SUBAGENTS_ONLY": "#b35900",
+    "pink_FOR_SUBAGENTS_ONLY": "#6f3800",
 
-    "rainbow_red": "#953800",
+    "rainbow_red": "#8a4600",
     "rainbow_orange": "#0550ae",
     "rainbow_yellow": "#bf8700",
     "rainbow_green": "#0a3069",
-    "rainbow_blue": "#116329",
+    "rainbow_blue": "#0550ae",
     "rainbow_indigo": "#8250df",
-    "rainbow_violet": "#cf222e",
+    "rainbow_violet": "#b35900",
 
-    "rainbow_red_shimmer": "#953800",
+    "rainbow_red_shimmer": "#8a4600",
     "rainbow_orange_shimmer": "#0550ae",
     "rainbow_yellow_shimmer": "#bf8700",
     "rainbow_green_shimmer": "#0a3069",
-    "rainbow_blue_shimmer": "#116329",
+    "rainbow_blue_shimmer": "#0550ae",
     "rainbow_indigo_shimmer": "#8250df",
-    "rainbow_violet_shimmer": "#cf222e"
+    "rainbow_violet_shimmer": "#b35900"
   }
 }

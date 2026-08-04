@@ -1,0 +1,70 @@
+{
+  "name": "Mezcal",
+  "base": "dark",
+  "overrides": {
+    "text": "#e0d8c8",
+    "inverseText": "#13110e",
+    "claude": "#8aa6c0",
+    "inactive": "#6e6450",
+    "subtle": "#6e6450",
+    "suggestion": "#6fc8ae",
+    "permission": "#c28aa8",
+    "remember": "#c28aa8",
+
+    "success": "#a8b84a",
+    "error": "#da6e54",
+    "warning": "#d9a441",
+    "merged": "#c28aa8",
+
+    "promptBorder": "#6e6450",
+    "planMode": "#8aa6c0",
+    "autoAccept": "#a8b84a",
+    "bashBorder": "#c28aa8",
+    "ide": "#6fc8ae",
+    "fastMode": "#d9a441",
+
+    "userMessageBackground": "#221f14",
+    "userMessageBackgroundHover": "#36301e",
+    "messageActionsBackground": "#36301e",
+    "bashMessageBackgroundColor": "#221f14",
+    "memoryBackgroundColor": "#221f14",
+    "selectionBg": "#36301e",
+
+    "rate_limit_fill": "#8aa6c0",
+    "rate_limit_empty": "#36301e",
+    "briefLabelYou": "#6fc8ae",
+    "briefLabelClaude": "#8aa6c0",
+
+    "claudeShimmer": "#8aa6c0",
+    "warningShimmer": "#d9a441",
+    "permissionShimmer": "#c28aa8",
+    "promptBorderShimmer": "#a79e8c",
+    "inactiveShimmer": "#a79e8c",
+    "fastModeShimmer": "#d9a441",
+
+    "red_FOR_SUBAGENTS_ONLY": "#da6e54",
+    "orange_FOR_SUBAGENTS_ONLY": "#d9a441",
+    "yellow_FOR_SUBAGENTS_ONLY": "#d9a441",
+    "green_FOR_SUBAGENTS_ONLY": "#a8b84a",
+    "cyan_FOR_SUBAGENTS_ONLY": "#6fc8ae",
+    "blue_FOR_SUBAGENTS_ONLY": "#8aa6c0",
+    "purple_FOR_SUBAGENTS_ONLY": "#c28aa8",
+    "pink_FOR_SUBAGENTS_ONLY": "#4e462c",
+
+    "rainbow_red": "#da6e54",
+    "rainbow_orange": "#d9a441",
+    "rainbow_yellow": "#d9a441",
+    "rainbow_green": "#a8b84a",
+    "rainbow_blue": "#6fc8ae",
+    "rainbow_indigo": "#8aa6c0",
+    "rainbow_violet": "#c28aa8",
+
+    "rainbow_red_shimmer": "#da6e54",
+    "rainbow_orange_shimmer": "#d9a441",
+    "rainbow_yellow_shimmer": "#d9a441",
+    "rainbow_green_shimmer": "#a8b84a",
+    "rainbow_blue_shimmer": "#6fc8ae",
+    "rainbow_indigo_shimmer": "#8aa6c0",
+    "rainbow_violet_shimmer": "#c28aa8"
+  }
+}

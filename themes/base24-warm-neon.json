@@ -1,6 +1,6 @@
 {
   "name": "Warm Neon",
-  "base": "light",
+  "base": "dark",
   "overrides": {
     "text": "#dcc9ba",
     "inverseText": "#3f3f3f",

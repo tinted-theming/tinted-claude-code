@@ -1,6 +1,6 @@
 {
   "name": "One Half Light",
-  "base": "light",
+  "base": "dark",
   "overrides": {
     "text": "#cfd0d2",
     "inverseText": "#2a2b32",

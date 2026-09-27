@@ -1,0 +1,70 @@
+{
+  "name": "Praha",
+  "base": "dark",
+  "overrides": {
+    "text": "#ffffff",
+    "inverseText": "#1a1a1a",
+    "claude": "#bd93f9",
+    "inactive": "#6272a4",
+    "subtle": "#6272a4",
+    "suggestion": "#8be9fd",
+    "permission": "#ff9aa2",
+    "remember": "#ff9aa2",
+
+    "success": "#b8e6a0",
+    "error": "#ff5555",
+    "warning": "#ffe4a3",
+    "merged": "#ff9aa2",
+
+    "promptBorder": "#6272a4",
+    "planMode": "#bd93f9",
+    "autoAccept": "#b8e6a0",
+    "bashBorder": "#ff9aa2",
+    "ide": "#8be9fd",
+    "fastMode": "#ff9c7c",
+
+    "userMessageBackground": "#2a2a2a",
+    "userMessageBackgroundHover": "#353535",
+    "messageActionsBackground": "#353535",
+    "bashMessageBackgroundColor": "#2a2a2a",
+    "memoryBackgroundColor": "#2a2a2a",
+    "selectionBg": "#353535",
+
+    "rate_limit_fill": "#bd93f9",
+    "rate_limit_empty": "#353535",
+    "briefLabelYou": "#8be9fd",
+    "briefLabelClaude": "#bd93f9",
+
+    "claudeShimmer": "#bd93f9",
+    "warningShimmer": "#ffe4a3",
+    "permissionShimmer": "#ff9aa2",
+    "promptBorderShimmer": "#989898",
+    "inactiveShimmer": "#989898",
+    "fastModeShimmer": "#ff9c7c",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff5555",
+    "orange_FOR_SUBAGENTS_ONLY": "#ff9c7c",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffe4a3",
+    "green_FOR_SUBAGENTS_ONLY": "#b8e6a0",
+    "cyan_FOR_SUBAGENTS_ONLY": "#8be9fd",
+    "blue_FOR_SUBAGENTS_ONLY": "#bd93f9",
+    "purple_FOR_SUBAGENTS_ONLY": "#ff9aa2",
+    "pink_FOR_SUBAGENTS_ONLY": "#af6e5a",
+
+    "rainbow_red": "#ff5555",
+    "rainbow_orange": "#ff9c7c",
+    "rainbow_yellow": "#ffe4a3",
+    "rainbow_green": "#b8e6a0",
+    "rainbow_blue": "#8be9fd",
+    "rainbow_indigo": "#bd93f9",
+    "rainbow_violet": "#ff9aa2",
+
+    "rainbow_red_shimmer": "#ff5555",
+    "rainbow_orange_shimmer": "#ff9c7c",
+    "rainbow_yellow_shimmer": "#ffe4a3",
+    "rainbow_green_shimmer": "#b8e6a0",
+    "rainbow_blue_shimmer": "#8be9fd",
+    "rainbow_indigo_shimmer": "#bd93f9",
+    "rainbow_violet_shimmer": "#ff9aa2"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Berlin",
+  "base": "dark",
+  "overrides": {
+    "text": "#cccccc",
+    "inverseText": "#000000",
+    "claude": "#888888",
+    "inactive": "#333333",
+    "subtle": "#333333",
+    "suggestion": "#cccccc",
+    "permission": "#aaaaaa",
+    "remember": "#aaaaaa",
+
+    "success": "#bbbbbb",
+    "error": "#999999",
+    "warning": "#dddddd",
+    "merged": "#aaaaaa",
+
+    "promptBorder": "#333333",
+    "planMode": "#888888",
+    "autoAccept": "#bbbbbb",
+    "bashBorder": "#aaaaaa",
+    "ide": "#cccccc",
+    "fastMode": "#bbbbbb",
+
+    "userMessageBackground": "#0e0e0e",
+    "userMessageBackgroundHover": "#181818",
+    "messageActionsBackground": "#181818",
+    "bashMessageBackgroundColor": "#0e0e0e",
+    "memoryBackgroundColor": "#0e0e0e",
+    "selectionBg": "#181818",
+
+    "rate_limit_fill": "#888888",
+    "rate_limit_empty": "#181818",
+    "briefLabelYou": "#cccccc",
+    "briefLabelClaude": "#888888",
+
+    "claudeShimmer": "#888888",
+    "warningShimmer": "#dddddd",
+    "permissionShimmer": "#aaaaaa",
+    "promptBorderShimmer": "#707070",
+    "inactiveShimmer": "#707070",
+    "fastModeShimmer": "#bbbbbb",
+
+    "red_FOR_SUBAGENTS_ONLY": "#999999",
+    "orange_FOR_SUBAGENTS_ONLY": "#bbbbbb",
+    "yellow_FOR_SUBAGENTS_ONLY": "#dddddd",
+    "green_FOR_SUBAGENTS_ONLY": "#bbbbbb",
+    "cyan_FOR_SUBAGENTS_ONLY": "#cccccc",
+    "blue_FOR_SUBAGENTS_ONLY": "#888888",
+    "purple_FOR_SUBAGENTS_ONLY": "#aaaaaa",
+    "pink_FOR_SUBAGENTS_ONLY": "#7a7a7a",
+
+    "rainbow_red": "#999999",
+    "rainbow_orange": "#bbbbbb",
+    "rainbow_yellow": "#dddddd",
+    "rainbow_green": "#bbbbbb",
+    "rainbow_blue": "#cccccc",
+    "rainbow_indigo": "#888888",
+    "rainbow_violet": "#aaaaaa",
+
+    "rainbow_red_shimmer": "#999999",
+    "rainbow_orange_shimmer": "#bbbbbb",
+    "rainbow_yellow_shimmer": "#dddddd",
+    "rainbow_green_shimmer": "#bbbbbb",
+    "rainbow_blue_shimmer": "#cccccc",
+    "rainbow_indigo_shimmer": "#888888",
+    "rainbow_violet_shimmer": "#aaaaaa"
+  }
+}

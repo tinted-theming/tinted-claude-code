@@ -1,0 +1,70 @@
+{
+  "name": "London",
+  "base": "light",
+  "overrides": {
+    "text": "#333333",
+    "inverseText": "#ffffff",
+    "claude": "#666666",
+    "inactive": "#333333",
+    "subtle": "#333333",
+    "suggestion": "#888888",
+    "permission": "#777777",
+    "remember": "#777777",
+
+    "success": "#444444",
+    "error": "#333333",
+    "warning": "#555555",
+    "merged": "#777777",
+
+    "promptBorder": "#333333",
+    "planMode": "#666666",
+    "autoAccept": "#444444",
+    "bashBorder": "#777777",
+    "ide": "#888888",
+    "fastMode": "#444444",
+
+    "userMessageBackground": "#f1f1f1",
+    "userMessageBackgroundHover": "#e7e7e7",
+    "messageActionsBackground": "#e7e7e7",
+    "bashMessageBackgroundColor": "#f1f1f1",
+    "memoryBackgroundColor": "#f1f1f1",
+    "selectionBg": "#e7e7e7",
+
+    "rate_limit_fill": "#666666",
+    "rate_limit_empty": "#e7e7e7",
+    "briefLabelYou": "#888888",
+    "briefLabelClaude": "#666666",
+
+    "claudeShimmer": "#666666",
+    "warningShimmer": "#555555",
+    "permissionShimmer": "#777777",
+    "promptBorderShimmer": "#7a7a7a",
+    "inactiveShimmer": "#7a7a7a",
+    "fastModeShimmer": "#444444",
+
+    "red_FOR_SUBAGENTS_ONLY": "#333333",
+    "orange_FOR_SUBAGENTS_ONLY": "#444444",
+    "yellow_FOR_SUBAGENTS_ONLY": "#555555",
+    "green_FOR_SUBAGENTS_ONLY": "#444444",
+    "cyan_FOR_SUBAGENTS_ONLY": "#888888",
+    "blue_FOR_SUBAGENTS_ONLY": "#666666",
+    "purple_FOR_SUBAGENTS_ONLY": "#777777",
+    "pink_FOR_SUBAGENTS_ONLY": "#303030",
+
+    "rainbow_red": "#333333",
+    "rainbow_orange": "#444444",
+    "rainbow_yellow": "#555555",
+    "rainbow_green": "#444444",
+    "rainbow_blue": "#888888",
+    "rainbow_indigo": "#666666",
+    "rainbow_violet": "#777777",
+
+    "rainbow_red_shimmer": "#333333",
+    "rainbow_orange_shimmer": "#444444",
+    "rainbow_yellow_shimmer": "#555555",
+    "rainbow_green_shimmer": "#444444",
+    "rainbow_blue_shimmer": "#888888",
+    "rainbow_indigo_shimmer": "#666666",
+    "rainbow_violet_shimmer": "#777777"
+  }
+}

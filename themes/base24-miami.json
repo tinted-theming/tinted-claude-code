@@ -1,0 +1,70 @@
+{
+  "name": "Miami",
+  "base": "dark",
+  "overrides": {
+    "text": "#f7f1ff",
+    "inverseText": "#000000",
+    "claude": "#00ffa8",
+    "inactive": "#69676c",
+    "subtle": "#69676c",
+    "suggestion": "#47cfff",
+    "permission": "#d36cff",
+    "remember": "#d36cff",
+
+    "success": "#7fffd4",
+    "error": "#ff4c8b",
+    "warning": "#ffd84c",
+    "merged": "#d36cff",
+
+    "promptBorder": "#69676c",
+    "planMode": "#00ffa8",
+    "autoAccept": "#7fffd4",
+    "bashBorder": "#d36cff",
+    "ide": "#47cfff",
+    "fastMode": "#ff926c",
+
+    "userMessageBackground": "#111112",
+    "userMessageBackgroundHover": "#1e1d1f",
+    "messageActionsBackground": "#1e1d1f",
+    "bashMessageBackgroundColor": "#111112",
+    "memoryBackgroundColor": "#111112",
+    "selectionBg": "#1e1d1f",
+
+    "rate_limit_fill": "#00ffa8",
+    "rate_limit_empty": "#1e1d1f",
+    "briefLabelYou": "#47cfff",
+    "briefLabelClaude": "#00ffa8",
+
+    "claudeShimmer": "#00ffa8",
+    "warningShimmer": "#ffd84c",
+    "permissionShimmer": "#d36cff",
+    "promptBorderShimmer": "#88858c",
+    "inactiveShimmer": "#88858c",
+    "fastModeShimmer": "#ff926c",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ff4c8b",
+    "orange_FOR_SUBAGENTS_ONLY": "#ff926c",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffd84c",
+    "green_FOR_SUBAGENTS_ONLY": "#7fffd4",
+    "cyan_FOR_SUBAGENTS_ONLY": "#47cfff",
+    "blue_FOR_SUBAGENTS_ONLY": "#00ffa8",
+    "purple_FOR_SUBAGENTS_ONLY": "#d36cff",
+    "pink_FOR_SUBAGENTS_ONLY": "#a65f46",
+
+    "rainbow_red": "#ff4c8b",
+    "rainbow_orange": "#ff926c",
+    "rainbow_yellow": "#ffd84c",
+    "rainbow_green": "#7fffd4",
+    "rainbow_blue": "#47cfff",
+    "rainbow_indigo": "#00ffa8",
+    "rainbow_violet": "#d36cff",
+
+    "rainbow_red_shimmer": "#ff4c8b",
+    "rainbow_orange_shimmer": "#ff926c",
+    "rainbow_yellow_shimmer": "#ffd84c",
+    "rainbow_green_shimmer": "#7fffd4",
+    "rainbow_blue_shimmer": "#47cfff",
+    "rainbow_indigo_shimmer": "#00ffa8",
+    "rainbow_violet_shimmer": "#d36cff"
+  }
+}

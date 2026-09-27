@@ -1,0 +1,70 @@
+{
+  "name": "Oslo",
+  "base": "dark",
+  "overrides": {
+    "text": "#abb2bf",
+    "inverseText": "#3f4451",
+    "claude": "#4aa5f0",
+    "inactive": "#6c727f",
+    "subtle": "#6c727f",
+    "suggestion": "#42b3c2",
+    "permission": "#c162de",
+    "remember": "#c162de",
+
+    "success": "#8cc265",
+    "error": "#e05561",
+    "warning": "#d18f52",
+    "merged": "#c162de",
+
+    "promptBorder": "#6c727f",
+    "planMode": "#4aa5f0",
+    "autoAccept": "#8cc265",
+    "bashBorder": "#c162de",
+    "ide": "#42b3c2",
+    "fastMode": "#d8725a",
+
+    "userMessageBackground": "#474c59",
+    "userMessageBackgroundHover": "#4c515e",
+    "messageActionsBackground": "#4c515e",
+    "bashMessageBackgroundColor": "#474c59",
+    "memoryBackgroundColor": "#474c59",
+    "selectionBg": "#4c515e",
+
+    "rate_limit_fill": "#4aa5f0",
+    "rate_limit_empty": "#4c515e",
+    "briefLabelYou": "#42b3c2",
+    "briefLabelClaude": "#4aa5f0",
+
+    "claudeShimmer": "#4aa5f0",
+    "warningShimmer": "#d18f52",
+    "permissionShimmer": "#c162de",
+    "promptBorderShimmer": "#7a808e",
+    "inactiveShimmer": "#7a808e",
+    "fastModeShimmer": "#d8725a",
+
+    "red_FOR_SUBAGENTS_ONLY": "#e05561",
+    "orange_FOR_SUBAGENTS_ONLY": "#d8725a",
+    "yellow_FOR_SUBAGENTS_ONLY": "#d18f52",
+    "green_FOR_SUBAGENTS_ONLY": "#8cc265",
+    "cyan_FOR_SUBAGENTS_ONLY": "#42b3c2",
+    "blue_FOR_SUBAGENTS_ONLY": "#4aa5f0",
+    "purple_FOR_SUBAGENTS_ONLY": "#c162de",
+    "pink_FOR_SUBAGENTS_ONLY": "#a26257",
+
+    "rainbow_red": "#e05561",
+    "rainbow_orange": "#d8725a",
+    "rainbow_yellow": "#d18f52",
+    "rainbow_green": "#8cc265",
+    "rainbow_blue": "#42b3c2",
+    "rainbow_indigo": "#4aa5f0",
+    "rainbow_violet": "#c162de",
+
+    "rainbow_red_shimmer": "#e05561",
+    "rainbow_orange_shimmer": "#d8725a",
+    "rainbow_yellow_shimmer": "#d18f52",
+    "rainbow_green_shimmer": "#8cc265",
+    "rainbow_blue_shimmer": "#42b3c2",
+    "rainbow_indigo_shimmer": "#4aa5f0",
+    "rainbow_violet_shimmer": "#c162de"
+  }
+}

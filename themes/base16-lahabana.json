@@ -1,0 +1,70 @@
+{
+  "name": "Lahabana",
+  "base": "dark",
+  "overrides": {
+    "text": "#f7f1ff",
+    "inverseText": "#19191a",
+    "claude": "#fd9353",
+    "inactive": "#76747a",
+    "subtle": "#76747a",
+    "suggestion": "#5ad4e6",
+    "permission": "#948ae3",
+    "remember": "#948ae3",
+
+    "success": "#7bd88f",
+    "error": "#fc618d",
+    "warning": "#e5ff9d",
+    "merged": "#948ae3",
+
+    "promptBorder": "#76747a",
+    "planMode": "#fd9353",
+    "autoAccept": "#7bd88f",
+    "bashBorder": "#948ae3",
+    "ide": "#5ad4e6",
+    "fastMode": "#f0b095",
+
+    "userMessageBackground": "#29282a",
+    "userMessageBackgroundHover": "#343335",
+    "messageActionsBackground": "#343335",
+    "bashMessageBackgroundColor": "#29282a",
+    "memoryBackgroundColor": "#29282a",
+    "selectionBg": "#343335",
+
+    "rate_limit_fill": "#fd9353",
+    "rate_limit_empty": "#343335",
+    "briefLabelYou": "#5ad4e6",
+    "briefLabelClaude": "#fd9353",
+
+    "claudeShimmer": "#fd9353",
+    "warningShimmer": "#e5ff9d",
+    "permissionShimmer": "#948ae3",
+    "promptBorderShimmer": "#939098",
+    "inactiveShimmer": "#939098",
+    "fastModeShimmer": "#f0b095",
+
+    "red_FOR_SUBAGENTS_ONLY": "#fc618d",
+    "orange_FOR_SUBAGENTS_ONLY": "#f0b095",
+    "yellow_FOR_SUBAGENTS_ONLY": "#e5ff9d",
+    "green_FOR_SUBAGENTS_ONLY": "#7bd88f",
+    "cyan_FOR_SUBAGENTS_ONLY": "#5ad4e6",
+    "blue_FOR_SUBAGENTS_ONLY": "#fd9353",
+    "purple_FOR_SUBAGENTS_ONLY": "#948ae3",
+    "pink_FOR_SUBAGENTS_ONLY": "#a57b6a",
+
+    "rainbow_red": "#fc618d",
+    "rainbow_orange": "#f0b095",
+    "rainbow_yellow": "#e5ff9d",
+    "rainbow_green": "#7bd88f",
+    "rainbow_blue": "#5ad4e6",
+    "rainbow_indigo": "#fd9353",
+    "rainbow_violet": "#948ae3",
+
+    "rainbow_red_shimmer": "#fc618d",
+    "rainbow_orange_shimmer": "#f0b095",
+    "rainbow_yellow_shimmer": "#e5ff9d",
+    "rainbow_green_shimmer": "#7bd88f",
+    "rainbow_blue_shimmer": "#5ad4e6",
+    "rainbow_indigo_shimmer": "#fd9353",
+    "rainbow_violet_shimmer": "#948ae3"
+  }
+}

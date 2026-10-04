@@ -1,0 +1,70 @@
+{
+  "name": "Sequoia Monochrome Dark",
+  "base": "dark",
+  "overrides": {
+    "text": "#868690",
+    "inverseText": "#0f1014",
+    "claude": "#7c829d",
+    "inactive": "#43444d",
+    "subtle": "#43444d",
+    "suggestion": "#b6bac8",
+    "permission": "#d3d5de",
+    "remember": "#d3d5de",
+
+    "success": "#626983",
+    "error": "#999eb2",
+    "warning": "#d3d5de",
+    "merged": "#d3d5de",
+
+    "promptBorder": "#43444d",
+    "planMode": "#7c829d",
+    "autoAccept": "#626983",
+    "bashBorder": "#d3d5de",
+    "ide": "#b6bac8",
+    "fastMode": "#999eb2",
+
+    "userMessageBackground": "#111216",
+    "userMessageBackgroundHover": "#111216",
+    "messageActionsBackground": "#111216",
+    "bashMessageBackgroundColor": "#111216",
+    "memoryBackgroundColor": "#111216",
+    "selectionBg": "#111216",
+
+    "rate_limit_fill": "#7c829d",
+    "rate_limit_empty": "#111216",
+    "briefLabelYou": "#b6bac8",
+    "briefLabelClaude": "#7c829d",
+
+    "claudeShimmer": "#7c829d",
+    "warningShimmer": "#d3d5de",
+    "permissionShimmer": "#d3d5de",
+    "promptBorderShimmer": "#575861",
+    "inactiveShimmer": "#575861",
+    "fastModeShimmer": "#999eb2",
+
+    "red_FOR_SUBAGENTS_ONLY": "#999eb2",
+    "orange_FOR_SUBAGENTS_ONLY": "#999eb2",
+    "yellow_FOR_SUBAGENTS_ONLY": "#d3d5de",
+    "green_FOR_SUBAGENTS_ONLY": "#626983",
+    "cyan_FOR_SUBAGENTS_ONLY": "#b6bac8",
+    "blue_FOR_SUBAGENTS_ONLY": "#7c829d",
+    "purple_FOR_SUBAGENTS_ONLY": "#d3d5de",
+    "pink_FOR_SUBAGENTS_ONLY": "#626983",
+
+    "rainbow_red": "#999eb2",
+    "rainbow_orange": "#999eb2",
+    "rainbow_yellow": "#d3d5de",
+    "rainbow_green": "#626983",
+    "rainbow_blue": "#b6bac8",
+    "rainbow_indigo": "#7c829d",
+    "rainbow_violet": "#d3d5de",
+
+    "rainbow_red_shimmer": "#999eb2",
+    "rainbow_orange_shimmer": "#999eb2",
+    "rainbow_yellow_shimmer": "#d3d5de",
+    "rainbow_green_shimmer": "#626983",
+    "rainbow_blue_shimmer": "#b6bac8",
+    "rainbow_indigo_shimmer": "#7c829d",
+    "rainbow_violet_shimmer": "#d3d5de"
+  }
+}

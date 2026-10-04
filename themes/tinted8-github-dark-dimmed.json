@@ -1,0 +1,70 @@
+{
+  "name": "Github Dark Dimmed",
+  "base": "dark",
+  "overrides": {
+    "text": "#d1d7e0",
+    "inverseText": "#212830",
+    "claude": "#478be6",
+    "inactive": "#656c76",
+    "subtle": "#3d444d",
+    "suggestion": "#39c5cf",
+    "permission": "#b083f0",
+    "remember": "#b083f0",
+
+    "success": "#57ab5a",
+    "error": "#e5534b",
+    "warning": "#c69026",
+    "merged": "#b083f0",
+
+    "promptBorder": "#3d444d",
+    "planMode": "#539bf5",
+    "autoAccept": "#57ab5a",
+    "bashBorder": "#b083f0",
+    "ide": "#478be6",
+    "fastMode": "#f69d50",
+
+    "userMessageBackground": "#262c36",
+    "userMessageBackgroundHover": "#262c36",
+    "messageActionsBackground": "#262c36",
+    "bashMessageBackgroundColor": "#262c36",
+    "memoryBackgroundColor": "#262c36",
+    "selectionBg": "#656c76",
+
+    "rate_limit_fill": "#478be6",
+    "rate_limit_empty": "#262c36",
+    "briefLabelYou": "#39c5cf",
+    "briefLabelClaude": "#478be6",
+
+    "claudeShimmer": "#478be6",
+    "warningShimmer": "#daaa3f",
+    "permissionShimmer": "#dcbdfb",
+    "promptBorderShimmer": "#828a96",
+    "inactiveShimmer": "#828a96",
+    "fastModeShimmer": "#f9be8a",
+
+    "red_FOR_SUBAGENTS_ONLY": "#f47067",
+    "orange_FOR_SUBAGENTS_ONLY": "#f69d50",
+    "yellow_FOR_SUBAGENTS_ONLY": "#c69026",
+    "green_FOR_SUBAGENTS_ONLY": "#57ab5a",
+    "cyan_FOR_SUBAGENTS_ONLY": "#39c5cf",
+    "blue_FOR_SUBAGENTS_ONLY": "#539bf5",
+    "purple_FOR_SUBAGENTS_ONLY": "#b083f0",
+    "pink_FOR_SUBAGENTS_ONLY": "#dcbdfb",
+
+    "rainbow_red": "#f47067",
+    "rainbow_orange": "#f69d50",
+    "rainbow_yellow": "#c69026",
+    "rainbow_green": "#57ab5a",
+    "rainbow_blue": "#39c5cf",
+    "rainbow_indigo": "#539bf5",
+    "rainbow_violet": "#b083f0",
+
+    "rainbow_red_shimmer": "#ff938a",
+    "rainbow_orange_shimmer": "#f9be8a",
+    "rainbow_yellow_shimmer": "#daaa3f",
+    "rainbow_green_shimmer": "#6bc46d",
+    "rainbow_blue_shimmer": "#56d4dd",
+    "rainbow_indigo_shimmer": "#6cb6ff",
+    "rainbow_violet_shimmer": "#dcbdfb"
+  }
+}

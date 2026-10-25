@@ -1,0 +1,70 @@
+{
+  "name": "Lumina Quartz Dark Contrast",
+  "base": "dark",
+  "overrides": {
+    "text": "#ebeff2",
+    "inverseText": "#0d0e0f",
+    "claude": "#7fb7ff",
+    "inactive": "#242526",
+    "subtle": "#242526",
+    "suggestion": "#00e2fc",
+    "permission": "#c09aff",
+    "remember": "#c09aff",
+
+    "success": "#62d17f",
+    "error": "#ffa69b",
+    "warning": "#ffc334",
+    "merged": "#c09aff",
+
+    "promptBorder": "#242526",
+    "planMode": "#7fb7ff",
+    "autoAccept": "#62d17f",
+    "bashBorder": "#c09aff",
+    "ide": "#00e2fc",
+    "fastMode": "#ff9645",
+
+    "userMessageBackground": "#111213",
+    "userMessageBackgroundHover": "#1a1b1d",
+    "messageActionsBackground": "#1a1b1d",
+    "bashMessageBackgroundColor": "#111213",
+    "memoryBackgroundColor": "#111213",
+    "selectionBg": "#1a1b1d",
+
+    "rate_limit_fill": "#7fb7ff",
+    "rate_limit_empty": "#1a1b1d",
+    "briefLabelYou": "#00e2fc",
+    "briefLabelClaude": "#7fb7ff",
+
+    "claudeShimmer": "#7fb7ff",
+    "warningShimmer": "#ffc334",
+    "permissionShimmer": "#c09aff",
+    "promptBorderShimmer": "#68696a",
+    "inactiveShimmer": "#68696a",
+    "fastModeShimmer": "#ff9645",
+
+    "red_FOR_SUBAGENTS_ONLY": "#ffa69b",
+    "orange_FOR_SUBAGENTS_ONLY": "#ff9645",
+    "yellow_FOR_SUBAGENTS_ONLY": "#ffc334",
+    "green_FOR_SUBAGENTS_ONLY": "#62d17f",
+    "cyan_FOR_SUBAGENTS_ONLY": "#00e2fc",
+    "blue_FOR_SUBAGENTS_ONLY": "#7fb7ff",
+    "purple_FOR_SUBAGENTS_ONLY": "#c09aff",
+    "pink_FOR_SUBAGENTS_ONLY": "#ec8ce4",
+
+    "rainbow_red": "#ffa69b",
+    "rainbow_orange": "#ff9645",
+    "rainbow_yellow": "#ffc334",
+    "rainbow_green": "#62d17f",
+    "rainbow_blue": "#00e2fc",
+    "rainbow_indigo": "#7fb7ff",
+    "rainbow_violet": "#c09aff",
+
+    "rainbow_red_shimmer": "#ffa69b",
+    "rainbow_orange_shimmer": "#ff9645",
+    "rainbow_yellow_shimmer": "#ffc334",
+    "rainbow_green_shimmer": "#62d17f",
+    "rainbow_blue_shimmer": "#00e2fc",
+    "rainbow_indigo_shimmer": "#7fb7ff",
+    "rainbow_violet_shimmer": "#c09aff"
+  }
+}

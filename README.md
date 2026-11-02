@@ -34,7 +34,8 @@ A theme file is a Claude Code custom theme — a JSON document with a `name`, a
 }
 ```
 
-Claude Code custom themes require **Claude Code v2.1.118 or later**. Tokens it
+Claude Code custom themes require **Claude Code v2.1.118 or later**. The
+templates cover every color token in Claude Code v2.1.316. Tokens it
 doesn't recognize and invalid color values are silently ignored, so the themes
 stay forward/backward compatible.
 
@@ -157,8 +158,13 @@ The full mapping lives in [`templates/`](./templates). A few of the choices:
 | `success`                    | `base0B`             | `ui.status.success`              |
 | `warning`                    | `base0A`             | `ui.status.warning`              |
 | `planMode`                   | `base0D`             | `palette.blue.normal`            |
-| `autoAccept`                 | `base0B`             | `palette.green.normal`           |
-| message/selection backgrounds| `base01`/`base02`    | `ui.global.background.dark`, `ui.selection.background` |
+| `autoAccept`                 | `base0E`             | `palette.magenta.normal`         |
+| `skill`, `effortUltra`       | `base0E`             | `palette.magenta.normal`         |
+| `background` (dialog accent) | `base0C`             | `palette.cyan.normal`            |
+| `claudeBlue_FOR_SYSTEM_SPINNER`, `professionalBlue` | `base0D` | `palette.blue.normal`   |
+| `chromeYellow`               | `base0A`             | `palette.yellow.normal`          |
+| `clawd_body` / `clawd_background` (mascot) | `base0D` / `base00` | `ui.accent.normal` / `ui.global.background.normal` |
+| message/selection/sidebar backgrounds| `base01`/`base02` | `ui.global.background.dark`, `ui.selection.background` |
 | `*_FOR_SUBAGENTS_ONLY` (8)   | `base08`–`base0F`    | `palette.*`                      |
 | `rainbow_*` (7)              | `base08`–`base0E`    | `palette.*`                      |
 
